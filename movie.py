@@ -17,7 +17,7 @@ def add_iframe(items):
 data["data"]["spotlight"] = add_iframe(data["data"]["spotlight"])
 data["data"]["trending"] = add_iframe(data["data"]["trending"])
 
-with open("home.json", "w") as f:
+with open("movie.json", "w") as f:
     json.dump(data, f, indent=2)
 
 print("Updated movie.json")

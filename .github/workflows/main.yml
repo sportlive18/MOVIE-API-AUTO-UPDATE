@@ -1,4 +1,4 @@
-name: Update JioTV Playlist
+name: MOVIE API JSON AUTOUPDATE
 on:
   schedule:
     - cron: '0 */1 * * *' # Runs every 1 hour

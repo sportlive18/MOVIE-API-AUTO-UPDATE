@@ -228,7 +228,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2648,
+        "votes": 2651,
         "popularity": 819.0049,
         "genreIds": [
           12,
@@ -249,7 +249,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1577,
+        "votes": 1580,
         "popularity": 1146.6141,
         "genreIds": [
           878,
@@ -269,8 +269,8 @@
         "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 28,
+        "rating": 7.3,
+        "votes": 30,
         "popularity": 81.1343,
         "genreIds": [
           878,
@@ -279,48 +279,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1308767,
-        "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 47,
-        "popularity": 40.5403,
-        "genreIds": [
-          36,
-          10752,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6924,
-        "popularity": 469.4002,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -353,8 +311,8 @@
         "backdrop": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
+        "rating": 4,
+        "votes": 1,
         "popularity": 2.1923,
         "genreIds": [
           80,
@@ -362,6 +320,48 @@
         ],
         "lang": "pt",
         "iframe": "https://peachify.top/embed/movie/1487864?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6927,
+        "popularity": 469.4002,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "date": "2026-07-02",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 47,
+        "popularity": 40.5403,
+        "genreIds": [
+          36,
+          10752,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 138502,
@@ -383,27 +383,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 478,
-        "popularity": 383.9155,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -447,6 +426,27 @@
         "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 481,
+        "popularity": 383.9155,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 278624,
         "type": "tv",
         "title": "Lucky",
@@ -465,6 +465,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4582,
+        "popularity": 262.6154,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 253983,
@@ -487,26 +507,6 @@
         "iframe": "https://peachify.top/embed/tv/253983?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4579,
-        "popularity": 262.6154,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1612018,
         "type": "movie",
         "title": "Jackass: Best and Last",
@@ -517,7 +517,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 87,
+        "votes": 89,
         "popularity": 50.8339,
         "genreIds": [
           28,
@@ -549,6 +549,29 @@
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 65942,
+        "type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "originalTitle": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b",
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "date": "2016-04-04",
+        "year": "2016",
+        "rating": 8,
+        "votes": 738,
+        "popularity": 83.9791,
+        "genreIds": [
+          16,
+          18,
+          9648,
+          10759,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/65942?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 687163,
         "type": "movie",
         "title": "Project Hail Mary",
@@ -559,7 +582,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6963,
+        "votes": 6964,
         "popularity": 144.5472,
         "genreIds": [
           878,
@@ -567,25 +590,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 329274,
-        "type": "tv",
-        "title": "MOURINHO",
-        "originalTitle": "MOURINHO",
-        "overview": "This trophy-packed, insider-fuelled documentary charts Jos\u00e9 Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
-        "poster": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-        "backdrop": "/tUd9QHKQJG2vZUfyPtelZqgBIq1.jpg",
-        "date": "2026-08-11",
-        "year": "2026",
-        "rating": 8.5,
-        "votes": 2,
-        "popularity": 14.1378,
-        "genreIds": [
-          99
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/329274?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [

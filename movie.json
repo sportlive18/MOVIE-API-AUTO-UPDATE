@@ -13,7 +13,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 115,
+        "votes": 116,
         "popularity": 272.8087,
         "genreIds": [
           18,
@@ -22,6 +22,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "backdrop": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 35,
+        "popularity": 84.6787,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8,
+        "votes": 1207,
+        "popularity": 404.7642,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -34,7 +76,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1974,
+        "votes": 1978,
         "popularity": 1875.3748,
         "genreIds": [
           878,
@@ -43,26 +85,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
-        "backdrop": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 7,
-        "votes": 34,
-        "popularity": 84.6787,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -83,28 +105,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8,
-        "votes": 1200,
-        "popularity": 404.7642,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -138,7 +138,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 763,
+        "votes": 767,
         "popularity": 264.2694,
         "genreIds": [
           12,
@@ -161,7 +161,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4866,
+        "votes": 4868,
         "popularity": 232.9651,
         "genreIds": [
           27,
@@ -996,7 +996,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 912,
+        "votes": 914,
         "popularity": 105.1595,
         "genreIds": [
           16,
@@ -1036,7 +1036,7 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2113,
+        "votes": 2114,
         "popularity": 49.9344,
         "genreIds": [
           12,
@@ -1057,7 +1057,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1899,
+        "votes": 1905,
         "popularity": 92.3438,
         "genreIds": [
           16,
@@ -1077,7 +1077,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31090,
+        "votes": 31092,
         "popularity": 87.6812,
         "genreIds": [
           18,
@@ -1096,7 +1096,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23383,
+        "votes": 23384,
         "popularity": 58.7501,
         "genreIds": [
           18,
@@ -1115,7 +1115,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 4088,
+        "votes": 4091,
         "popularity": 78.3949,
         "genreIds": [
           10402,
@@ -1134,7 +1134,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 7192,
+        "votes": 7203,
         "popularity": 125.0677,
         "genreIds": [
           878,
@@ -1153,7 +1153,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14200,
+        "votes": 14202,
         "popularity": 31.8998,
         "genreIds": [
           18,
@@ -1172,7 +1172,7 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17767,
+        "votes": 17769,
         "popularity": 35.3747,
         "genreIds": [
           18,
@@ -1229,7 +1229,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36448,
+        "votes": 36450,
         "popularity": 61.6543,
         "genreIds": [
           28,
@@ -1249,7 +1249,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18732,
+        "votes": 18733,
         "popularity": 34.5587,
         "genreIds": [
           16,
@@ -1290,7 +1290,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19643,
+        "votes": 19646,
         "popularity": 32.0676,
         "genreIds": [
           14,
@@ -1330,7 +1330,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27128,
+        "votes": 27131,
         "popularity": 48.7188,
         "genreIds": [
           12,
@@ -1350,7 +1350,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21125,
+        "votes": 21128,
         "popularity": 36.869,
         "genreIds": [
           35,
@@ -1370,7 +1370,7 @@
         "date": "2014-11-05",
         "year": "2014",
         "rating": 8.5,
-        "votes": 40820,
+        "votes": 40822,
         "popularity": 67.3846,
         "genreIds": [
           12,
@@ -2991,7 +2991,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 113,
+        "votes": 115,
         "popularity": 272.8087,
         "genreIds": [
           18,
@@ -3011,7 +3011,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2458,
+        "votes": 2463,
         "popularity": 237.1217,
         "genreIds": [
           10765,
@@ -3030,7 +3030,7 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 10943,
+        "votes": 10944,
         "popularity": 210.1961,
         "genreIds": [
           16,
@@ -3104,7 +3104,7 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.4,
-        "votes": 2567,
+        "votes": 2568,
         "popularity": 168.7456,
         "genreIds": [
           18,
@@ -3142,7 +3142,7 @@
         "date": "1999-03-28",
         "year": "1999",
         "rating": 8.4,
-        "votes": 3858,
+        "votes": 3860,
         "popularity": 139.8838,
         "genreIds": [
           16,
@@ -3533,11 +3533,11 @@
         "originalTitle": "\u546a\u8853\u5efb\u6226",
         "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
         "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "backdrop": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+        "backdrop": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4616,
+        "votes": 4617,
         "popularity": 92.474,
         "genreIds": [
           16,
@@ -3557,7 +3557,7 @@
         "date": "2016-04-04",
         "year": "2016",
         "rating": 8.1,
-        "votes": 757,
+        "votes": 758,
         "popularity": 92.228,
         "genreIds": [
           16,
@@ -3656,7 +3656,7 @@
         "date": "1989-04-26",
         "year": "1989",
         "rating": 8.4,
-        "votes": 4971,
+        "votes": 4972,
         "popularity": 70.286,
         "genreIds": [
           16,

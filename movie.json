@@ -13,7 +13,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.9,
-        "votes": 455,
+        "votes": 459,
         "popularity": 277.1939,
         "genreIds": [
           10751,
@@ -35,7 +35,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2631,
+        "votes": 2633,
         "popularity": 312.9706,
         "genreIds": [
           10765,
@@ -43,6 +43,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 306,
+        "popularity": 237.7147,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1137844,
@@ -55,7 +76,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 7.9,
-        "votes": 377,
+        "votes": 384,
         "popularity": 236.9262,
         "genreIds": [
           28,
@@ -63,6 +84,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1137844?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3260,
+        "popularity": 633.2375,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1386315,
@@ -75,7 +116,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.7,
-        "votes": 367,
+        "votes": 369,
         "popularity": 244.4988,
         "genreIds": [
           53,
@@ -106,27 +147,6 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 306,
-        "popularity": 237.7147,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1368337,
         "type": "movie",
         "title": "The Odyssey",
@@ -137,7 +157,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3584,
+        "votes": 3585,
         "popularity": 420.4943,
         "genreIds": [
           12,
@@ -146,216 +166,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3259,
-        "popularity": 633.2375,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 455,
-        "popularity": 277.1939,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1440098,
-        "type": "movie",
-        "title": "Drawn Together",
-        "originalTitle": "Enfrentados: Marfil",
-        "overview": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-        "poster": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-        "backdrop": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 7,
-        "votes": 24,
-        "popularity": 101.7507,
-        "genreIds": [
-          10749,
-          53
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1440098?accent=7c5cff&dub=Hindi&quality=1080"
-      },
       {
         "id": 300507,
         "type": "tv",
         "title": "Crew Girl",
         "originalTitle": "Crew Girl",
-        "overview": "16-year-old rower Teagan becomes coxswain of a troubled boys' crew at an elite prep school. She navigates team drama, romance, rival crews, and a complex relationship with her mom while trying to lead them to victory.",
-        "poster": "/uzwf0Xn1XNmB5IHYBEjYEnVbGuO.jpg",
+        "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+        "poster": "/tzf21i1ETZEu7i787ED3WThROH.jpg",
         "backdrop": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
         "date": "2026-09-10",
         "year": "2026",
-        "rating": 8.3,
+        "rating": 8.2,
         "votes": 4,
-        "popularity": 9.6894,
+        "popularity": 49.6209,
         "genreIds": [
           18
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/300507?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1522689,
-        "type": "movie",
-        "title": "Why Did I Get Married Again?",
-        "originalTitle": "Why Did I Get Married Again?",
-        "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-        "poster": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-        "backdrop": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-        "date": "2026-09-08",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 10,
-        "popularity": 31.8427,
-        "genreIds": [
-          10749,
-          35,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1522689?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1365884,
-        "type": "movie",
-        "title": "Call My Agent! The Movie",
-        "originalTitle": "Dix Pour Cent ! Le Film",
-        "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
-        "poster": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-        "backdrop": "/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
-        "date": "2026-08-29",
-        "year": "2026",
-        "rating": 4.4,
-        "votes": 5,
-        "popularity": 2.4537,
-        "genreIds": [
-          35,
-          18
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/movie/1365884?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1185806,
-        "type": "movie",
-        "title": "PAW Patrol: The Dino Movie",
-        "originalTitle": "PAW Patrol: The Dino Movie",
-        "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-        "poster": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-        "backdrop": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-        "date": "2026-07-23",
-        "year": "2026",
-        "rating": 7,
-        "votes": 49,
-        "popularity": 39.0652,
-        "genreIds": [
-          16,
-          12,
-          10751,
-          14,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1185806?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1302904,
-        "type": "movie",
-        "title": "Practical Magic 2",
-        "originalTitle": "Practical Magic 2",
-        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 17,
-        "popularity": 48.27,
-        "genreIds": [
-          10749,
-          14,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1302904?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2567,
-        "popularity": 798.5359,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 258230,
-        "type": "tv",
-        "title": "Last Seen",
-        "originalTitle": "Last Seen",
-        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-        "poster": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-        "backdrop": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 9,
-        "votes": 6,
-        "popularity": 64.1427,
-        "genreIds": [
-          80,
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/258230?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1137844,
@@ -368,7 +199,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 7.9,
-        "votes": 377,
+        "votes": 384,
         "popularity": 236.9262,
         "genreIds": [
           28,
@@ -378,43 +209,24 @@
         "iframe": "https://peachify.top/embed/movie/1137844?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 325755,
-        "type": "tv",
-        "title": "The Perfect Lie",
-        "originalTitle": "De Eetclub",
-        "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
-        "poster": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-        "backdrop": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
-        "date": "2026-09-10",
+        "id": 1440098,
+        "type": "movie",
+        "title": "Drawn Together",
+        "originalTitle": "Enfrentados: Marfil",
+        "overview": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+        "poster": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+        "backdrop": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+        "date": "2026-09-09",
         "year": "2026",
-        "rating": 10,
-        "votes": 1,
-        "popularity": 13.0076,
+        "rating": 6.8,
+        "votes": 26,
+        "popularity": 101.7507,
         "genreIds": [
-          18
+          10749,
+          53
         ],
-        "lang": "nl",
-        "iframe": "https://peachify.top/embed/tv/325755?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3259,
-        "popularity": 633.2375,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1440098?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1433367,
@@ -424,7 +236,7 @@
         "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
         "poster": "/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
         "backdrop": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-        "date": "2026-07-28",
+        "date": "2026-08-06",
         "year": "2026",
         "rating": 6.8,
         "votes": 90,
@@ -435,6 +247,49 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1433367?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 306,
+        "popularity": 223.2484,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 459,
+        "popularity": 277.1939,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -458,25 +313,24 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "date": "2026-08-16",
+        "id": 1365884,
+        "type": "movie",
+        "title": "Call My Agent! The Movie",
+        "originalTitle": "Dix Pour Cent ! Le Film",
+        "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
+        "poster": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+        "backdrop": "/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
+        "date": "2026-08-29",
         "year": "2026",
-        "rating": 8.3,
-        "votes": 306,
-        "popularity": 237.7147,
+        "rating": 5.2,
+        "votes": 9,
+        "popularity": 2.4537,
         "genreIds": [
-          18,
-          9648,
-          10765
+          35,
+          18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/movie/1365884?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -489,8 +343,8 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2631,
-        "popularity": 312.9706,
+        "votes": 2633,
+        "popularity": 291.9951,
         "genreIds": [
           10765,
           18
@@ -519,45 +373,6 @@
         "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 246473,
-        "type": "tv",
-        "title": "Made in Korea",
-        "originalTitle": "\uba54\uc774\ub4dc \uc778 \ucf54\ub9ac\uc544",
-        "overview": "In 1970s South Korea, follow two men on opposite sides of power \u2014 one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-        "poster": "/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-        "backdrop": "/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-        "date": "2025-12-24",
-        "year": "2025",
-        "rating": 8.1,
-        "votes": 34,
-        "popularity": 35.072,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/246473?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 253941,
-        "type": "tv",
-        "title": "The Paper",
-        "originalTitle": "The Paper",
-        "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
-        "poster": "/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-        "backdrop": "/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
-        "date": "2025-09-04",
-        "year": "2025",
-        "rating": 7.1,
-        "votes": 94,
-        "popularity": 32.7608,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/253941?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1423191,
         "type": "movie",
         "title": "Resident Evil",
@@ -577,6 +392,196 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 325755,
+        "type": "tv",
+        "title": "The Perfect Lie",
+        "originalTitle": "De Eetclub",
+        "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+        "poster": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+        "backdrop": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 10,
+        "votes": 1,
+        "popularity": 31.5856,
+        "genreIds": [
+          18
+        ],
+        "lang": "nl",
+        "iframe": "https://peachify.top/embed/tv/325755?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1522689,
+        "type": "movie",
+        "title": "Why Did I Get Married Again?",
+        "originalTitle": "Why Did I Get Married Again?",
+        "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+        "poster": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+        "backdrop": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+        "date": "2026-09-08",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 11,
+        "popularity": 31.8427,
+        "genreIds": [
+          10749,
+          35,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1522689?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1302904,
+        "type": "movie",
+        "title": "Practical Magic 2",
+        "originalTitle": "Practical Magic 2",
+        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+        "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "date": "2026-09-09",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 18,
+        "popularity": 48.27,
+        "genreIds": [
+          10749,
+          14,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1302904?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 813418,
+        "type": "movie",
+        "title": "Hot Spot",
+        "originalTitle": "Hot Spot",
+        "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+        "poster": "/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+        "backdrop": "/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+        "date": "2026-08-21",
+        "year": "2026",
+        "rating": 4.8,
+        "votes": 7,
+        "popularity": 7.2609,
+        "genreIds": [
+          878,
+          28,
+          80,
+          14,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/813418?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1185806,
+        "type": "movie",
+        "title": "PAW Patrol: The Dino Movie",
+        "originalTitle": "PAW Patrol: The Dino Movie",
+        "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+        "poster": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "backdrop": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 7,
+        "votes": 49,
+        "popularity": 39.0652,
+        "genreIds": [
+          16,
+          12,
+          10751,
+          14,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1185806?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1204680,
+        "type": "movie",
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 287,
+        "popularity": 626.7023,
+        "genreIds": [
+          35,
+          12,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2566,
+        "popularity": 798.5359,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3260,
+        "popularity": 625.6462,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 258230,
+        "type": "tv",
+        "title": "Last Seen",
+        "originalTitle": "Last Seen",
+        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+        "poster": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+        "backdrop": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+        "date": "2026-09-09",
+        "year": "2026",
+        "rating": 9,
+        "votes": 6,
+        "popularity": 64.2191,
+        "genreIds": [
+          80,
+          18,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/258230?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1790,8 +1795,8 @@
         "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 7.7,
-        "votes": 276,
+        "rating": 7.6,
+        "votes": 278,
         "popularity": 626.7023,
         "genreIds": [
           35,
@@ -1811,7 +1816,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.4,
-        "votes": 339,
+        "votes": 341,
         "popularity": 373.0022,
         "genreIds": [
           28,
@@ -1830,7 +1835,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 741,
+        "votes": 742,
         "popularity": 316.4896,
         "genreIds": [
           28,
@@ -1948,7 +1953,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 3251,
+        "votes": 3252,
         "popularity": 100.879,
         "genreIds": [
           878,
@@ -1999,8 +2004,8 @@
         "title": "The Dog Stars",
         "originalTitle": "The Dog Stars",
         "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-        "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-        "backdrop": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+        "poster": "/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+        "backdrop": "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
         "date": "2026-08-26",
         "year": "2026",
         "rating": 6.6,
@@ -2008,8 +2013,7 @@
         "popularity": 60.1949,
         "genreIds": [
           878,
-          18,
-          12
+          53
         ],
         "lang": "en"
       },
@@ -2024,7 +2028,7 @@
         "date": "2019-04-24",
         "year": "2019",
         "rating": 8.2,
-        "votes": 28600,
+        "votes": 28602,
         "popularity": 57.0889,
         "genreIds": [
           12,
@@ -2062,8 +2066,8 @@
         "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
         "date": "2026-09-09",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 13,
+        "rating": 6.4,
+        "votes": 17,
         "popularity": 48.27,
         "genreIds": [
           10749,
@@ -2164,7 +2168,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 8.2,
-        "votes": 705,
+        "votes": 706,
         "popularity": 38.1679,
         "genreIds": [
           28,

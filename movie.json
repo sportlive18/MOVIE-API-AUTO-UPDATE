@@ -13,7 +13,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1258,
+        "votes": 1271,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 182,
+        "votes": 190,
         "popularity": 556.6877,
         "genreIds": [
           27,
@@ -54,8 +54,8 @@
         "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "date": "2026-09-17",
         "year": "2026",
-        "rating": 7,
-        "votes": 43,
+        "rating": 7.1,
+        "votes": 45,
         "popularity": 136.9655,
         "genreIds": [
           18,
@@ -63,26 +63,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3365,
-        "popularity": 924.8967,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 273207,
@@ -95,7 +75,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.9,
-        "votes": 82,
+        "votes": 84,
         "popularity": 155.9482,
         "genreIds": [
           18,
@@ -104,6 +84,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3367,
+        "popularity": 924.8967,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247718,
@@ -124,6 +124,111 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 368,
+        "popularity": 223.2856,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2786,
+        "popularity": 684.7189,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      }
+    ],
+    "trending": [
+      {
+        "id": 1423191,
+        "type": "movie",
+        "title": "Resident Evil",
+        "originalTitle": "Resident Evil",
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 188,
+        "popularity": 556.6877,
+        "genreIds": [
+          27,
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 299939,
+        "type": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "originalTitle": "Monster: The Lizzie Borden Story",
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "date": "2026-09-17",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 43,
+        "popularity": 136.9655,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 239618,
+        "type": "tv",
+        "title": "American Hostage",
+        "originalTitle": "American Hostage",
+        "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+        "poster": "/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+        "backdrop": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+        "date": "2026-09-20",
+        "year": "2026",
+        "rating": 5.5,
+        "votes": 2,
+        "popularity": 6.7064,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/239618?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -146,70 +251,6 @@
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 366,
-        "popularity": 223.2856,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      }
-    ],
-    "trending": [
-      {
-        "id": 1423191,
-        "type": "movie",
-        "title": "Resident Evil",
-        "originalTitle": "Resident Evil",
-        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 179,
-        "popularity": 556.6877,
-        "genreIds": [
-          27,
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 299939,
-        "type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "originalTitle": "Monster: The Lizzie Borden Story",
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "date": "2026-09-17",
-        "year": "2026",
-        "rating": 7,
-        "votes": 41,
-        "popularity": 136.9655,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1101383,
         "type": "movie",
         "title": "The End of Oak Street",
@@ -220,7 +261,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1257,
+        "votes": 1265,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -229,65 +270,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 239618,
-        "type": "tv",
-        "title": "American Hostage",
-        "originalTitle": "American Hostage",
-        "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-        "poster": "/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
-        "backdrop": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-        "date": "2026-09-20",
-        "year": "2026",
-        "rating": 1,
-        "votes": 1,
-        "popularity": 6.7064,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/239618?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1572,
-        "popularity": 385.7829,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 275102,
-        "type": "tv",
-        "title": "The Scandal",
-        "originalTitle": "\uc2a4\uce94\ub4e4",
-        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-        "poster": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 8,
-        "popularity": 4764.8935,
-        "genreIds": [
-          18
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247718,
@@ -310,48 +292,6 @@
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 273207,
-        "type": "tv",
-        "title": "Neagley",
-        "originalTitle": "Neagley",
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "poster": "/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
-        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 78,
-        "popularity": 155.9482,
-        "genreIds": [
-          18,
-          9648,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1240889,
-        "type": "movie",
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-        "poster": "/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
-        "backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 137,
-        "popularity": 64.8235,
-        "genreIds": [
-          35,
-          27,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 108978,
         "type": "tv",
         "title": "Reacher",
@@ -362,7 +302,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3365,
+        "votes": 3366,
         "popularity": 924.8967,
         "genreIds": [
           10759,
@@ -370,6 +310,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 273207,
+        "type": "tv",
+        "title": "Neagley",
+        "originalTitle": "Neagley",
+        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+        "poster": "/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
+        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 83,
+        "popularity": 155.9482,
+        "genreIds": [
+          18,
+          9648,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -382,7 +343,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2784,
+        "votes": 2785,
         "popularity": 684.7189,
         "genreIds": [
           878,
@@ -403,7 +364,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 365,
+        "votes": 366,
         "popularity": 223.2856,
         "genreIds": [
           18,
@@ -412,6 +373,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 275102,
+        "type": "tv",
+        "title": "The Scandal",
+        "originalTitle": "\uc2a4\uce94\ub4e4",
+        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+        "poster": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 8,
+        "popularity": 4764.8935,
+        "genreIds": [
+          18
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1240889,
+        "type": "movie",
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+        "poster": "/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
+        "backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 139,
+        "popularity": 64.8235,
+        "genreIds": [
+          35,
+          27,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1514863,
@@ -423,55 +424,14 @@
         "backdrop": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
         "date": "2026-09-18",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 9,
+        "rating": 7,
+        "votes": 10,
         "popularity": 48.3659,
         "genreIds": [
           35
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1514863?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1641629,
-        "type": "movie",
-        "title": "You+Me - Against the World",
-        "originalTitle": "Toi+Moi - Seuls contre tous",
-        "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love \u2014 despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
-        "poster": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-        "backdrop": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 5.7,
-        "votes": 24,
-        "popularity": 75.2724,
-        "genreIds": [
-          10749,
-          18
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/movie/1641629?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3809,
-        "popularity": 377.4824,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -494,6 +454,48 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 94664,
+        "type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1721,
+        "popularity": 206.9604,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/94664?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3814,
+        "popularity": 377.4824,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1279493,
         "type": "movie",
         "title": "The Get Out",
@@ -514,12 +516,32 @@
         "iframe": "https://peachify.top/embed/movie/1279493?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1641629,
+        "type": "movie",
+        "title": "You+Me - Against the World",
+        "originalTitle": "Toi+Moi - Seuls contre tous",
+        "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love \u2014 despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+        "poster": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "backdrop": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 5.7,
+        "votes": 25,
+        "popularity": 75.2724,
+        "genreIds": [
+          10749,
+          18
+        ],
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/movie/1641629?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1451944,
         "type": "movie",
         "title": "Lust Stories 3",
         "originalTitle": "Lust Stories 3",
         "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
-        "poster": "/feBkcOeda0X505mPyyyeGuuS9Ct.jpg",
+        "poster": "/qbsuF8RazV42POTJLxItQ6Udd3n.jpg",
         "backdrop": "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
         "date": "2026-09-18",
         "year": "2026",
@@ -534,43 +556,26 @@
         "iframe": "https://peachify.top/embed/movie/1451944?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 207484,
-        "type": "tv",
-        "title": "Outlander: Blood of My Blood",
-        "originalTitle": "Outlander: Blood of My Blood",
-        "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-        "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-        "backdrop": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-        "date": "2025-08-08",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 106,
-        "popularity": 38.0366,
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 710,
+        "popularity": 216.803,
         "genreIds": [
-          18
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/207484?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 232018,
-        "type": "tv",
-        "title": "Has Fallen",
-        "originalTitle": "Has Fallen",
-        "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-        "poster": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-        "backdrop": "/oS5vwLiVvfZrQ0NpbRJRfuXJhUX.jpg",
-        "date": "2024-09-23",
-        "year": "2024",
-        "rating": 7,
-        "votes": 122,
-        "popularity": 54.4761,
-        "genreIds": [
-          10759,
-          10768
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/tv/232018?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2549,7 +2554,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 912,
+        "votes": 913,
         "popularity": 53.6477,
         "genreIds": [
           10759,
@@ -2607,7 +2612,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18658,
+        "votes": 18661,
         "popularity": 249.9091,
         "genreIds": [
           18,
@@ -2704,7 +2709,7 @@
         "date": "2025-06-28",
         "year": "2025",
         "rating": 8.8,
-        "votes": 202,
+        "votes": 203,
         "popularity": 14.9909,
         "genreIds": [
           16,
@@ -2724,7 +2729,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 967,
+        "votes": 968,
         "popularity": 85.4733,
         "genreIds": [
           16,
@@ -2763,7 +2768,7 @@
         "date": "2019-04-21",
         "year": "2019",
         "rating": 8.8,
-        "votes": 987,
+        "votes": 988,
         "popularity": 87.0312,
         "genreIds": [
           10759,
@@ -2802,7 +2807,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5107,
+        "votes": 5108,
         "popularity": 37.251,
         "genreIds": [
           16,
@@ -2880,7 +2885,7 @@
         "date": "2025-11-28",
         "year": "2025",
         "rating": 8.7,
-        "votes": 610,
+        "votes": 611,
         "popularity": 30.9036,
         "genreIds": [
           18
@@ -2916,7 +2921,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8310,
+        "votes": 8313,
         "popularity": 38.5523,
         "genreIds": [
           18
@@ -2964,6 +2969,44 @@
         "lang": "en"
       },
       {
+        "id": 456,
+        "type": "tv",
+        "title": "The Simpsons",
+        "originalTitle": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
+        "date": "1989-12-17",
+        "year": "1989",
+        "rating": 8,
+        "votes": 11017,
+        "popularity": 457.0739,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 61818,
+        "type": "tv",
+        "title": "Late Night with Seth Meyers",
+        "originalTitle": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" \u2014 home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster": "/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+        "backdrop": "/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+        "date": "2014-02-25",
+        "year": "2014",
+        "rating": 5.1,
+        "votes": 134,
+        "popularity": 456.5261,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "en"
+      },
+      {
         "id": 113962,
         "type": "tv",
         "title": "Lioness",
@@ -2974,7 +3017,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.2,
-        "votes": 1570,
+        "votes": 1571,
         "popularity": 385.7829,
         "genreIds": [
           18,
@@ -3022,25 +3065,6 @@
         "lang": "ja"
       },
       {
-        "id": 456,
-        "type": "tv",
-        "title": "The Simpsons",
-        "originalTitle": "The Simpsons",
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "backdrop": "/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
-        "date": "1989-12-17",
-        "year": "1989",
-        "rating": 8,
-        "votes": 11016,
-        "popularity": 457.0739,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en"
-      },
-      {
         "id": 2224,
         "type": "tv",
         "title": "The Daily Show",
@@ -3078,6 +3102,24 @@
         "lang": "en"
       },
       {
+        "id": 291,
+        "type": "tv",
+        "title": "Coronation Street",
+        "originalTitle": "Coronation Street",
+        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+        "poster": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+        "backdrop": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+        "date": "1960-12-09",
+        "year": "1960",
+        "rating": 5.4,
+        "votes": 118,
+        "popularity": 259.4433,
+        "genreIds": [
+          10766
+        ],
+        "lang": "en"
+      },
+      {
         "id": 97546,
         "type": "tv",
         "title": "Ted Lasso",
@@ -3093,6 +3135,63 @@
         "genreIds": [
           18,
           35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2527,
+        "type": "tv",
+        "title": "Emmerdale",
+        "originalTitle": "Emmerdale",
+        "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+        "poster": "/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+        "backdrop": "/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+        "date": "1972-10-16",
+        "year": "1972",
+        "rating": 4.3,
+        "votes": 100,
+        "popularity": 248.1417,
+        "genreIds": [
+          10766,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1667,
+        "type": "tv",
+        "title": "Saturday Night Live",
+        "originalTitle": "Saturday Night Live",
+        "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+        "poster": "/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "backdrop": "/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+        "date": "1975-10-11",
+        "year": "1975",
+        "rating": 6.9,
+        "votes": 527,
+        "popularity": 227.1735,
+        "genreIds": [
+          35,
+          10763
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.4,
+        "votes": 866,
+        "popularity": 224.6664,
+        "genreIds": [
+          80,
+          18
         ],
         "lang": "en"
       },
@@ -3113,25 +3212,6 @@
           10764
         ],
         "lang": "ko"
-      },
-      {
-        "id": 61818,
-        "type": "tv",
-        "title": "Late Night with Seth Meyers",
-        "originalTitle": "Late Night with Seth Meyers",
-        "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" \u2014 home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-        "poster": "/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
-        "backdrop": "/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-        "date": "2014-02-25",
-        "year": "2014",
-        "rating": 5.1,
-        "votes": 134,
-        "popularity": 456.5261,
-        "genreIds": [
-          10767,
-          35
-        ],
-        "lang": "en"
       },
       {
         "id": 95350,
@@ -3159,8 +3239,8 @@
         "title": "Tomorrow Is Ours",
         "originalTitle": "Demain nous appartient",
         "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-        "poster": "/7BjipkA48xXLauTg45QKiOb144a.jpg",
-        "backdrop": "/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+        "poster": "/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+        "backdrop": "/p2Za8znhlr8jP9kPdHM53v2ficZ.jpg",
         "date": "2017-07-17",
         "year": "2017",
         "rating": 6.2,
@@ -3172,61 +3252,6 @@
           10766
         ],
         "lang": "fr"
-      },
-      {
-        "id": 2527,
-        "type": "tv",
-        "title": "Emmerdale",
-        "originalTitle": "Emmerdale",
-        "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-        "poster": "/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-        "backdrop": "/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-        "date": "1972-10-16",
-        "year": "1972",
-        "rating": 4.3,
-        "votes": 100,
-        "popularity": 248.1417,
-        "genreIds": [
-          10766,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 206559,
-        "type": "tv",
-        "title": "Binnelanders",
-        "originalTitle": "Binnelanders",
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "date": "2005-10-13",
-        "year": "2005",
-        "rating": 5.5,
-        "votes": 112,
-        "popularity": 295.302,
-        "genreIds": [
-          10766
-        ],
-        "lang": "af"
-      },
-      {
-        "id": 291,
-        "type": "tv",
-        "title": "Coronation Street",
-        "originalTitle": "Coronation Street",
-        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-        "poster": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-        "backdrop": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-        "date": "1960-12-09",
-        "year": "1960",
-        "rating": 5.4,
-        "votes": 118,
-        "popularity": 259.4433,
-        "genreIds": [
-          10766
-        ],
-        "lang": "en"
       },
       {
         "id": 94664,
@@ -3249,60 +3274,40 @@
         "lang": "ja"
       },
       {
-        "id": 247718,
+        "id": 206559,
         "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.4,
-        "votes": 865,
-        "popularity": 224.6664,
+        "title": "Binnelanders",
+        "originalTitle": "Binnelanders",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+        "date": "2005-10-13",
+        "year": "2005",
+        "rating": 5.5,
+        "votes": 112,
+        "popularity": 295.302,
         "genreIds": [
-          80,
-          18
+          10766
         ],
-        "lang": "en"
+        "lang": "af"
       },
       {
-        "id": 1667,
+        "id": 223911,
         "type": "tv",
-        "title": "Saturday Night Live",
-        "originalTitle": "Saturday Night Live",
-        "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-        "poster": "/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "backdrop": "/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-        "date": "1975-10-11",
-        "year": "1975",
-        "rating": 6.9,
-        "votes": 527,
-        "popularity": 227.1735,
-        "genreIds": [
-          35,
-          10763
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 106449,
-        "type": "tv",
-        "title": "A Record of a Mortal's Journey to Immortality",
-        "originalTitle": "\u51e1\u4eba\u4fee\u4ed9\u4f20",
-        "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-        "poster": "/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-        "backdrop": "/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-        "date": "2020-07-25",
-        "year": "2020",
-        "rating": 8.4,
-        "votes": 87,
-        "popularity": 158.5954,
+        "title": "Renegade Immortal",
+        "originalTitle": "\u4ed9\u9006",
+        "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+        "poster": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+        "backdrop": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+        "date": "2023-09-25",
+        "year": "2023",
+        "rating": 8.3,
+        "votes": 44,
+        "popularity": 165.9746,
         "genreIds": [
           16,
-          10759,
-          18
+          18,
+          10759
         ],
         "lang": "zh"
       }

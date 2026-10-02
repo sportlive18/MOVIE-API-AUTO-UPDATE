@@ -13,7 +13,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.7,
-        "votes": 46,
+        "votes": 50,
         "popularity": 173.6885,
         "genreIds": [
           35,
@@ -33,7 +33,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 257,
+        "votes": 265,
         "popularity": 255.8538,
         "genreIds": [
           28,
@@ -41,26 +41,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1283515,
-        "type": "movie",
-        "title": "Verity",
-        "originalTitle": "Verity",
-        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "date": "2026-09-30",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 35,
-        "popularity": 93.5831,
-        "genreIds": [
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -73,7 +53,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 671,
+        "votes": 676,
         "popularity": 446.6667,
         "genreIds": [
           27,
@@ -94,7 +74,7 @@
         "date": "2026-09-25",
         "year": "2026",
         "rating": 6.6,
-        "votes": 266,
+        "votes": 275,
         "popularity": 164.998,
         "genreIds": [
           53,
@@ -105,13 +85,33 @@
         "iframe": "https://peachify.top/embed/movie/1492640?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 977942,
+        "type": "movie",
+        "title": "The Uprising",
+        "originalTitle": "The Uprising",
+        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 133,
+        "popularity": 161.331,
+        "genreIds": [
+          36,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/977942?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 258165,
         "type": "tv",
         "title": "East of Eden",
         "originalTitle": "East of Eden",
         "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
         "poster": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-        "backdrop": "/4NTBRl66VLpp5N88wxPaxpvwRMj.jpg",
+        "backdrop": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
         "date": "2026-10-01",
         "year": "2026",
         "rating": 7.9,
@@ -124,46 +124,45 @@
         "iframe": "https://peachify.top/embed/tv/258165?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 977942,
-        "type": "movie",
-        "title": "The Uprising",
-        "originalTitle": "The Uprising",
-        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "date": "2026-09-10",
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
         "year": "2026",
-        "rating": 8,
-        "votes": 127,
-        "popularity": 161.331,
+        "rating": 8.4,
+        "votes": 485,
+        "popularity": 262.6871,
         "genreIds": [
-          36,
-          18
+          18,
+          9648,
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/977942?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 298505,
-        "type": "tv",
-        "title": "Coven Academy",
-        "originalTitle": "Coven Academy",
-        "overview": "In the haunted heart of New Orleans, follow three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and forbidden love interests, the coven must decide how far they\u2019re willing to go to protect their city\u2014and themselves.",
-        "poster": "/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-        "backdrop": "/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-        "date": "2026-10-01",
+        "id": 1283515,
+        "type": "movie",
+        "title": "Verity",
+        "originalTitle": "Verity",
+        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+        "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "date": "2026-09-30",
         "year": "2026",
-        "rating": 10,
-        "votes": 3,
-        "popularity": 23.4863,
+        "rating": 6.6,
+        "votes": 41,
+        "popularity": 93.5831,
         "genreIds": [
           9648,
-          10759,
-          18,
-          35
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/298505?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -197,7 +196,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.7,
-        "votes": 46,
+        "votes": 49,
         "popularity": 173.6885,
         "genreIds": [
           35,
@@ -207,24 +206,24 @@
         "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 284558,
-        "type": "tv",
-        "title": "Kill Jackie",
-        "originalTitle": "Kill Jackie",
-        "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world\u2019s most terrifying hitmen, have been hired to kill her.",
-        "poster": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-        "backdrop": "/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+        "id": 1458857,
+        "type": "movie",
+        "title": "Doing Life",
+        "originalTitle": "Doing Life",
+        "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+        "poster": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+        "backdrop": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
         "date": "2026-10-02",
         "year": "2026",
-        "rating": 8.8,
+        "rating": 7,
         "votes": 5,
-        "popularity": 12.4545,
+        "popularity": 2.0605,
         "genreIds": [
           18,
-          80
+          10749
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/284558?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1458857?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 298505,
@@ -258,8 +257,8 @@
         "backdrop": "/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
         "date": "2026-10-02",
         "year": "2026",
-        "rating": 9.2,
-        "votes": 5,
+        "rating": 9.3,
+        "votes": 6,
         "popularity": 16.3573,
         "genreIds": [
           18
@@ -268,63 +267,24 @@
         "iframe": "https://peachify.top/embed/tv/298852?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1458857,
-        "type": "movie",
-        "title": "Doing Life",
-        "originalTitle": "Doing Life",
-        "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-        "poster": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-        "backdrop": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+        "id": 284558,
+        "type": "tv",
+        "title": "Kill Jackie",
+        "originalTitle": "Kill Jackie",
+        "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world\u2019s most terrifying hitmen, have been hired to kill her.",
+        "poster": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+        "backdrop": "/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
         "date": "2026-10-02",
         "year": "2026",
-        "rating": 7,
+        "rating": 8.8,
         "votes": 5,
-        "popularity": 2.0605,
+        "popularity": 12.4545,
         "genreIds": [
           18,
-          10749
+          80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1458857?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1283515,
-        "type": "movie",
-        "title": "Verity",
-        "originalTitle": "Verity",
-        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "date": "2026-09-30",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 35,
-        "popularity": 93.5831,
-        "genreIds": [
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 335227,
-        "type": "tv",
-        "title": "I Would Rather Die",
-        "originalTitle": "Prefiero la Muerte",
-        "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
-        "poster": "/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
-        "backdrop": "/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
-        "date": "2026-10-02",
-        "year": "2026",
-        "rating": 9,
-        "votes": 2,
-        "popularity": 1.9596,
-        "genreIds": [
-          10759
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/335227?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/284558?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 977942,
@@ -337,7 +297,7 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 8,
-        "votes": 129,
+        "votes": 131,
         "popularity": 161.331,
         "genreIds": [
           36,
@@ -345,6 +305,66 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/977942?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 335227,
+        "type": "tv",
+        "title": "I Would Rather Die",
+        "originalTitle": "Prefiero la Muerte",
+        "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+        "poster": "/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
+        "backdrop": "/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
+        "date": "2026-10-02",
+        "year": "2026",
+        "rating": 9.3,
+        "votes": 3,
+        "popularity": 1.9596,
+        "genreIds": [
+          10759
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/335227?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1283515,
+        "type": "movie",
+        "title": "Verity",
+        "originalTitle": "Verity",
+        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+        "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "date": "2026-09-30",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 38,
+        "popularity": 93.5831,
+        "genreIds": [
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1423191,
+        "type": "movie",
+        "title": "Resident Evil",
+        "originalTitle": "Resident Evil",
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 676,
+        "popularity": 446.6667,
+        "genreIds": [
+          27,
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 203667,
@@ -367,27 +387,6 @@
         "iframe": "https://peachify.top/embed/tv/203667?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1307118,
-        "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-        "date": "2026-07-31",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 360,
-        "popularity": 29.0171,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1377237,
         "type": "movie",
         "title": "Runner",
@@ -398,7 +397,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 258,
+        "votes": 264,
         "popularity": 255.8538,
         "genreIds": [
           28,
@@ -406,6 +405,89 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 365,
+        "popularity": 29.0171,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 220542,
+        "type": "tv",
+        "title": "The Apothecary Diaries",
+        "originalTitle": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "poster": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+        "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "date": "2023-10-22",
+        "year": "2023",
+        "rating": 8.6,
+        "votes": 650,
+        "popularity": 84.3082,
+        "genreIds": [
+          16,
+          18,
+          9648
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/220542?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.5,
+        "votes": 947,
+        "popularity": 279.8498,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.4,
+        "votes": 485,
+        "popularity": 262.6871,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 283428,
@@ -428,27 +510,6 @@
         "iframe": "https://peachify.top/embed/tv/283428?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1423191,
-        "type": "movie",
-        "title": "Resident Evil",
-        "originalTitle": "Resident Evil",
-        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 671,
-        "popularity": 446.6667,
-        "genreIds": [
-          27,
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1763619,
         "type": "movie",
         "title": "Crazy Rich, Incredibly Broke",
@@ -469,104 +530,46 @@
         "iframe": "https://peachify.top/embed/movie/1763619?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.5,
-        "votes": 944,
-        "popularity": 279.8498,
+        "id": 1153576,
+        "type": "movie",
+        "title": "Street Fighter",
+        "originalTitle": "Street Fighter",
+        "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+        "poster": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+        "backdrop": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "date": "2026-10-13",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 21.1541,
         "genreIds": [
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1153576?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 105009,
+        "type": "tv",
+        "title": "Tokyo Revengers",
+        "originalTitle": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba",
+        "overview": "Takemichi Hanagaki is a freelancer that\u2019s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he\u2019s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he\u2019s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he\u2019s back living the best days of his life, Takemichi decides to get revenge on his life.",
+        "poster": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+        "backdrop": "/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+        "date": "2021-04-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1351,
+        "popularity": 42.7206,
+        "genreIds": [
+          16,
+          10759,
           80,
           18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 295778,
-        "type": "tv",
-        "title": "Scrubs",
-        "originalTitle": "Scrubs",
-        "overview": "J.D. & Turk scrub in together for the first time in a long time\u2013medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-        "poster": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-        "backdrop": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
-        "date": "2026-02-25",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 112,
-        "popularity": 58.4245,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/295778?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-15",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 93.9233,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.4,
-        "votes": 484,
-        "popularity": 262.6871,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 290699,
-        "type": "tv",
-        "title": "Shadow Punisher",
-        "originalTitle": "\u9b45\u5f71\u795e\u6355",
-        "overview": "Lord Qingyang's son, Li Si, devised a plan to infiltrate the Imperial Detective Division to uncover the truth behind the death of the Fourth Prince. There, he met and joined forces with Bai Zhenzhu, the finest female forensic expert in the land; and Meng Rui, a ghost-catcher renowned for his martial prowess but burdened with a deep-seated vendetta. Together, they formed the Divine Detectives. With seamless teamwork and unwavering determination, this trio ventured through perilous challenges, solving eight enigmatic and bizarre cases.",
-        "poster": "/9JmtjS94oVvlamKJPtXeUtEENdx.jpg",
-        "backdrop": "/n7Qa4062BjMZTw681xQZbFzPrHO.jpg",
-        "date": "2026-10-02",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 4.5606,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/290699?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/105009?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -581,7 +584,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2978,
+        "votes": 2986,
         "popularity": 583.5584,
         "genreIds": [
           878,
@@ -601,7 +604,7 @@
         "date": "2026-10-01",
         "year": "2026",
         "rating": 7.8,
-        "votes": 5,
+        "votes": 6,
         "popularity": 492.9498,
         "genreIds": [
           16,
@@ -622,7 +625,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 663,
+        "votes": 671,
         "popularity": 446.6667,
         "genreIds": [
           27,
@@ -642,7 +645,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.6,
-        "votes": 603,
+        "votes": 610,
         "popularity": 304.7214,
         "genreIds": [
           35,
@@ -662,12 +665,50 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3984,
+        "votes": 3987,
         "popularity": 302.589,
         "genreIds": [
           12,
           28,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1228834,
+        "type": "movie",
+        "title": "The Fix",
+        "originalTitle": "The Fix",
+        "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+        "poster": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+        "backdrop": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 7,
+        "votes": 43,
+        "popularity": 260.4762,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1377237,
+        "type": "movie",
+        "title": "Runner",
+        "originalTitle": "Runner",
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "date": "2026-09-07",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 258,
+        "popularity": 255.8538,
+        "genreIds": [
+          28,
+          35
         ],
         "lang": "en"
       },
@@ -681,51 +722,13 @@
         "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 1745,
+        "rating": 7,
+        "votes": 1749,
         "popularity": 254.6663,
         "genreIds": [
           878,
           9648,
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1228834,
-        "type": "movie",
-        "title": "The Fix",
-        "originalTitle": "The Fix",
-        "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-        "poster": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-        "backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 42,
-        "popularity": 260.4762,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1032863,
-        "type": "movie",
-        "title": "The Love Hypothesis",
-        "originalTitle": "The Love Hypothesis",
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "date": "2026-09-23",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 408,
-        "popularity": 222.3316,
-        "genreIds": [
-          10749,
-          35
         ],
         "lang": "en"
       },
@@ -750,20 +753,20 @@
         "lang": "en"
       },
       {
-        "id": 1377237,
+        "id": 1032863,
         "type": "movie",
-        "title": "Runner",
-        "originalTitle": "Runner",
-        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "date": "2026-09-07",
+        "title": "The Love Hypothesis",
+        "originalTitle": "The Love Hypothesis",
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "date": "2026-09-23",
         "year": "2026",
-        "rating": 8.3,
-        "votes": 252,
-        "popularity": 255.8538,
+        "rating": 8.1,
+        "votes": 411,
+        "popularity": 222.3316,
         "genreIds": [
-          28,
+          10749,
           35
         ],
         "lang": "en"
@@ -798,7 +801,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 994,
+        "votes": 995,
         "popularity": 179.1788,
         "genreIds": [
           27,
@@ -818,52 +821,11 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 735,
+        "votes": 736,
         "popularity": 179.0745,
         "genreIds": [
           28,
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 2444,
-        "popularity": 169.5976,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1492640,
-        "type": "movie",
-        "title": "UNABOMBER",
-        "originalTitle": "UNABOMBER",
-        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-        "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "backdrop": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "date": "2026-09-25",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 255,
-        "popularity": 164.998,
-        "genreIds": [
-          53,
-          18,
-          80
         ],
         "lang": "en"
       },
@@ -878,30 +840,11 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.7,
-        "votes": 44,
+        "votes": 46,
         "popularity": 173.6885,
         "genreIds": [
           35,
           18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1263337,
-        "type": "movie",
-        "title": "Heart of the Beast",
-        "originalTitle": "Heart of the Beast",
-        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-        "poster": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "date": "2026-09-19",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 173,
-        "popularity": 161.7222,
-        "genreIds": [
-          12,
-          53
         ],
         "lang": "en"
       },
@@ -926,20 +869,61 @@
         "lang": "en"
       },
       {
-        "id": 1339713,
+        "id": 1084244,
         "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "date": "2026-05-13",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "date": "2026-06-17",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 5870,
-        "popularity": 155.7965,
+        "rating": 8.3,
+        "votes": 2448,
+        "popularity": 169.5976,
         "genreIds": [
-          27,
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1492640,
+        "type": "movie",
+        "title": "UNABOMBER",
+        "originalTitle": "UNABOMBER",
+        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+        "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "backdrop": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "date": "2026-09-25",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 267,
+        "popularity": 164.998,
+        "genreIds": [
+          53,
+          18,
+          80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1263337,
+        "type": "movie",
+        "title": "Heart of the Beast",
+        "originalTitle": "Heart of the Beast",
+        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+        "poster": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "date": "2026-09-19",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 178,
+        "popularity": 161.7222,
+        "genreIds": [
+          12,
           53
         ],
         "lang": "en"
@@ -954,12 +938,31 @@
         "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
         "date": "2026-09-10",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 123,
+        "rating": 8,
+        "votes": 129,
         "popularity": 161.331,
         "genreIds": [
           36,
           18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5877,
+        "popularity": 155.7965,
+        "genreIds": [
+          27,
+          53
         ],
         "lang": "en"
       }
@@ -1767,7 +1770,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 663,
+        "votes": 671,
         "popularity": 446.6667,
         "genreIds": [
           27,
@@ -1787,7 +1790,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.6,
-        "votes": 603,
+        "votes": 610,
         "popularity": 304.7214,
         "genreIds": [
           35,
@@ -1803,11 +1806,11 @@
         "originalTitle": "The Fix",
         "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
         "poster": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-        "backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+        "backdrop": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
         "date": "2026-09-10",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 42,
+        "rating": 7,
+        "votes": 43,
         "popularity": 260.4762,
         "genreIds": [
           28,
@@ -1826,7 +1829,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 252,
+        "votes": 258,
         "popularity": 255.8538,
         "genreIds": [
           28,
@@ -1845,7 +1848,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 993,
+        "votes": 995,
         "popularity": 179.1788,
         "genreIds": [
           27,
@@ -1864,8 +1867,8 @@
         "backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "date": "2026-09-28",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 44,
+        "rating": 7.7,
+        "votes": 46,
         "popularity": 173.6885,
         "genreIds": [
           35,
@@ -1884,7 +1887,7 @@
         "date": "2026-09-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 173,
+        "votes": 178,
         "popularity": 161.7222,
         "genreIds": [
           12,
@@ -1902,8 +1905,8 @@
         "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
         "date": "2026-09-10",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 123,
+        "rating": 8,
+        "votes": 129,
         "popularity": 161.331,
         "genreIds": [
           36,
@@ -1921,8 +1924,8 @@
         "backdrop": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
         "date": "2026-08-21",
         "year": "2026",
-        "rating": 5.7,
-        "votes": 59,
+        "rating": 5.8,
+        "votes": 60,
         "popularity": 123.2249,
         "genreIds": [
           27,
@@ -1937,11 +1940,11 @@
         "originalTitle": "Verity",
         "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
         "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
         "date": "2026-09-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 31,
+        "votes": 35,
         "popularity": 93.5831,
         "genreIds": [
           9648,
@@ -1979,7 +1982,7 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 8.2,
-        "votes": 37,
+        "votes": 38,
         "popularity": 79.8554,
         "genreIds": [
           16,
@@ -2039,7 +2042,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 8.2,
-        "votes": 785,
+        "votes": 787,
         "popularity": 51.6926,
         "genreIds": [
           28,
@@ -2059,7 +2062,7 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.2,
-        "votes": 698,
+        "votes": 699,
         "popularity": 47.2253,
         "genreIds": [
           35,
@@ -2067,44 +2070,6 @@
           10749
         ],
         "lang": "en"
-      },
-      {
-        "id": 1341138,
-        "type": "movie",
-        "title": "Spa Weekend",
-        "originalTitle": "Spa Weekend",
-        "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-        "poster": "/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
-        "backdrop": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 56,
-        "popularity": 41.2944,
-        "genreIds": [
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1393326,
-        "type": "movie",
-        "title": "Ghost in the Cell",
-        "originalTitle": "Ghost in the Cell",
-        "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
-        "poster": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
-        "backdrop": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-        "date": "2026-04-16",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 80,
-        "popularity": 41.3067,
-        "genreIds": [
-          27,
-          35,
-          53
-        ],
-        "lang": "id"
       },
       {
         "id": 1058424,
@@ -2127,6 +2092,44 @@
         "lang": "ko"
       },
       {
+        "id": 1393326,
+        "type": "movie",
+        "title": "Ghost in the Cell",
+        "originalTitle": "Ghost in the Cell",
+        "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+        "poster": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+        "backdrop": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+        "date": "2026-04-16",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 81,
+        "popularity": 41.3067,
+        "genreIds": [
+          27,
+          35,
+          53
+        ],
+        "lang": "id"
+      },
+      {
+        "id": 1341138,
+        "type": "movie",
+        "title": "Spa Weekend",
+        "originalTitle": "Spa Weekend",
+        "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+        "poster": "/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
+        "backdrop": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 56,
+        "popularity": 41.2944,
+        "genreIds": [
+          35
+        ],
+        "lang": "en"
+      },
+      {
         "id": 131631,
         "type": "movie",
         "title": "The Hunger Games: Mockingjay - Part 1",
@@ -2137,7 +2140,7 @@
         "date": "2014-11-19",
         "year": "2014",
         "rating": 6.8,
-        "votes": 17053,
+        "votes": 17056,
         "popularity": 40.2851,
         "genreIds": [
           878,
@@ -2188,21 +2191,21 @@
         "lang": "en"
       },
       {
-        "id": 108978,
+        "id": 63770,
         "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3441,
-        "popularity": 578.8335,
+        "title": "The Late Show with Stephen Colbert",
+        "originalTitle": "The Late Show with Stephen Colbert",
+        "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+        "poster": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "backdrop": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+        "date": "2015-09-08",
+        "year": "2015",
+        "rating": 6.1,
+        "votes": 367,
+        "popularity": 601.6376,
         "genreIds": [
-          10759,
-          80
+          35,
+          10767
         ],
         "lang": "en"
       },
@@ -2217,11 +2220,68 @@
         "date": "2014-02-17",
         "year": "2014",
         "rating": 5.8,
-        "votes": 391,
+        "votes": 392,
         "popularity": 600.5736,
         "genreIds": [
           35,
           10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3442,
+        "popularity": 578.8335,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2261,
+        "type": "tv",
+        "title": "The Tonight Show Starring Johnny Carson",
+        "originalTitle": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+        "backdrop": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "date": "1962-10-01",
+        "year": "1962",
+        "rating": 7.6,
+        "votes": 97,
+        "popularity": 555.8727,
+        "genreIds": [
+          10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2734,
+        "type": "tv",
+        "title": "Law & Order: Special Victims Unit",
+        "originalTitle": "Law & Order: Special Victims Unit",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+        "date": "1999-09-20",
+        "year": "1999",
+        "rating": 8,
+        "votes": 4362,
+        "popularity": 550.3661,
+        "genreIds": [
+          80,
+          18,
+          9648
         ],
         "lang": "en"
       },
@@ -2245,61 +2305,23 @@
         "lang": "ko"
       },
       {
-        "id": 2734,
+        "id": 70998,
         "type": "tv",
-        "title": "Law & Order: Special Victims Unit",
-        "originalTitle": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-        "date": "1999-09-20",
-        "year": "1999",
-        "rating": 8,
-        "votes": 4362,
-        "popularity": 550.3661,
+        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "originalTitle": "\u50e7\u4fb6\u3068\u4ea4\u308f\u308b\u8272\u6b32\u306e\u591c\u306b\u2026",
+        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years\u2014Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+        "date": "2017-04-03",
+        "year": "2017",
+        "rating": 5.5,
+        "votes": 15,
+        "popularity": 503.8465,
         "genreIds": [
-          80,
-          18,
-          9648
+          16,
+          18
         ],
-        "lang": "en"
-      },
-      {
-        "id": 63770,
-        "type": "tv",
-        "title": "The Late Show with Stephen Colbert",
-        "originalTitle": "The Late Show with Stephen Colbert",
-        "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-        "poster": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-        "backdrop": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-        "date": "2015-09-08",
-        "year": "2015",
-        "rating": 6.1,
-        "votes": 367,
-        "popularity": 601.6376,
-        "genreIds": [
-          35,
-          10767
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 2261,
-        "type": "tv",
-        "title": "The Tonight Show Starring Johnny Carson",
-        "originalTitle": "The Tonight Show Starring Johnny Carson",
-        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-        "poster": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-        "backdrop": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-        "date": "1962-10-01",
-        "year": "1962",
-        "rating": 7.6,
-        "votes": 97,
-        "popularity": 555.8727,
-        "genreIds": [
-          10767
-        ],
-        "lang": "en"
+        "lang": "ja"
       },
       {
         "id": 275102,
@@ -2330,30 +2352,11 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 11044,
+        "votes": 11046,
         "popularity": 453.9412,
         "genreIds": [
           16,
           35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 549,
-        "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 729,
-        "popularity": 422.515,
-        "genreIds": [
-          80,
-          18
         ],
         "lang": "en"
       },
@@ -2378,23 +2381,23 @@
         "lang": "en"
       },
       {
-        "id": 70998,
+        "id": 549,
         "type": "tv",
-        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "originalTitle": "\u50e7\u4fb6\u3068\u4ea4\u308f\u308b\u8272\u6b32\u306e\u591c\u306b\u2026",
-        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years\u2014Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-        "date": "2017-04-03",
-        "year": "2017",
-        "rating": 5.5,
-        "votes": 15,
-        "popularity": 503.8465,
+        "title": "Law & Order",
+        "originalTitle": "Law & Order",
+        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+        "date": "1990-09-13",
+        "year": "1990",
+        "rating": 7.3,
+        "votes": 729,
+        "popularity": 422.515,
         "genreIds": [
-          16,
+          80,
           18
         ],
-        "lang": "ja"
+        "lang": "en"
       },
       {
         "id": 2316,
@@ -2407,7 +2410,7 @@
         "date": "2005-03-24",
         "year": "2005",
         "rating": 8.6,
-        "votes": 5523,
+        "votes": 5525,
         "popularity": 396.8886,
         "genreIds": [
           35
@@ -2434,6 +2437,22 @@
         "lang": "en"
       },
       {
+        "id": 4304,
+        "type": "tv",
+        "title": "Xplay",
+        "originalTitle": "Xplay",
+        "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
+        "poster": "/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+        "backdrop": "/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
+        "date": "2003-04-28",
+        "year": "2003",
+        "rating": 8.5,
+        "votes": 4,
+        "popularity": 385.3021,
+        "genreIds": [],
+        "lang": "en"
+      },
+      {
         "id": 1416,
         "type": "tv",
         "title": "Grey's Anatomy",
@@ -2452,21 +2471,21 @@
         "lang": "en"
       },
       {
-        "id": 113962,
+        "id": 2224,
         "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.3,
-        "votes": 1659,
-        "popularity": 339.2654,
+        "title": "The Daily Show",
+        "originalTitle": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "backdrop": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+        "date": "1996-07-22",
+        "year": "1996",
+        "rating": 6.4,
+        "votes": 664,
+        "popularity": 349.1684,
         "genreIds": [
-          18,
-          10768
+          10763,
+          35
         ],
         "lang": "en"
       },
@@ -2489,40 +2508,21 @@
         "lang": "de"
       },
       {
-        "id": 2224,
+        "id": 113962,
         "type": "tv",
-        "title": "The Daily Show",
-        "originalTitle": "The Daily Show",
-        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "poster": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "backdrop": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-        "date": "1996-07-22",
-        "year": "1996",
-        "rating": 6.4,
-        "votes": 664,
-        "popularity": 349.1684,
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.3,
+        "votes": 1659,
+        "popularity": 339.2654,
         "genreIds": [
-          10763,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1434,
-        "type": "tv",
-        "title": "Family Guy",
-        "originalTitle": "Family Guy",
-        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-        "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "backdrop": "/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-        "date": "1999-01-31",
-        "year": "1999",
-        "rating": 7.4,
-        "votes": 5125,
-        "popularity": 331.0434,
-        "genreIds": [
-          16,
-          35
+          18,
+          10768
         ],
         "lang": "en"
       }
@@ -2539,7 +2539,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 948,
+        "votes": 949,
         "popularity": 55.3689,
         "genreIds": [
           10759,
@@ -2578,7 +2578,7 @@
         "date": "2026-04-10",
         "year": "2026",
         "rating": 9.1,
-        "votes": 218,
+        "votes": 219,
         "popularity": 32.8144,
         "genreIds": [
           35,
@@ -2597,7 +2597,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18739,
+        "votes": 18743,
         "popularity": 199.384,
         "genreIds": [
           18,
@@ -2703,27 +2703,6 @@
         "lang": "ko"
       },
       {
-        "id": 209867,
-        "type": "tv",
-        "title": "Frieren: Beyond Journey's End",
-        "originalTitle": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3",
-        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "date": "2023-09-29",
-        "year": "2023",
-        "rating": 8.8,
-        "votes": 981,
-        "popularity": 95.9093,
-        "genreIds": [
-          16,
-          10759,
-          18,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 85077,
         "type": "tv",
         "title": "The Chosen",
@@ -2742,6 +2721,27 @@
           18
         ],
         "lang": "en"
+      },
+      {
+        "id": 209867,
+        "type": "tv",
+        "title": "Frieren: Beyond Journey's End",
+        "originalTitle": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3",
+        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+        "date": "2023-09-29",
+        "year": "2023",
+        "rating": 8.8,
+        "votes": 983,
+        "popularity": 95.9093,
+        "genreIds": [
+          16,
+          10759,
+          18,
+          10765
+        ],
+        "lang": "ja"
       },
       {
         "id": 219246,
@@ -2849,7 +2849,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5572,
+        "votes": 5573,
         "popularity": 95.3357,
         "genreIds": [
           10759,
@@ -2869,7 +2869,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6207,
+        "votes": 6209,
         "popularity": 54.0308,
         "genreIds": [
           16,
@@ -2907,7 +2907,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8361,
+        "votes": 8364,
         "popularity": 39.6832,
         "genreIds": [
           18
@@ -3358,7 +3358,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1756,
+        "votes": 1758,
         "popularity": 227.1359,
         "genreIds": [
           10759,
@@ -3450,26 +3450,6 @@
         "lang": "ja"
       },
       {
-        "id": 46260,
-        "type": "tv",
-        "title": "Naruto",
-        "originalTitle": "\u30ca\u30eb\u30c8",
-        "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-        "poster": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
-        "backdrop": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-        "date": "2002-10-03",
-        "year": "2002",
-        "rating": 8.4,
-        "votes": 6132,
-        "popularity": 126.1175,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 57775,
         "type": "tv",
         "title": "Chibi Maruko-chan",
@@ -3489,6 +3469,42 @@
         "lang": "ja"
       },
       {
+        "id": 207840,
+        "type": "tv",
+        "title": "Harem Camp!",
+        "originalTitle": "\u30cf\u30fc\u30ec\u30e0\u304d\u3083\u3093\u3077\u3063\uff01",
+        "overview": "The story follows teacher and veteran solo camper Kensuke, who forms a camping group with four girls.",
+        "poster": "/dsaYRfBviInhrulwtHOyg1KB4ct.jpg",
+        "backdrop": "/xIioKjaioyNLW38OMugFmn15DI6.jpg",
+        "date": "2022-10-03",
+        "year": "2022",
+        "rating": 7.1,
+        "votes": 26,
+        "popularity": 156.3091,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 95897,
+        "type": "tv",
+        "title": "Overflow",
+        "originalTitle": "\u304a\u30fc\u3070\u30fc\u3075\u308d\u3049",
+        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+        "poster": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "backdrop": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+        "date": "2020-01-06",
+        "year": "2020",
+        "rating": 7.5,
+        "votes": 96,
+        "popularity": 155.9931,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 60572,
         "type": "tv",
         "title": "Pok\u00e9mon",
@@ -3499,8 +3515,50 @@
         "date": "1997-04-01",
         "year": "1997",
         "rating": 8,
-        "votes": 2273,
+        "votes": 2274,
         "popularity": 154.2732,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 34860,
+        "type": "tv",
+        "title": "Ninja Boy Rantaro",
+        "originalTitle": "\u5fcd\u305f\u307e\u4e71\u592a\u90ce",
+        "overview": "Rantar\u014d, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+        "poster": "/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "backdrop": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
+        "date": "1993-04-10",
+        "year": "1993",
+        "rating": 6.8,
+        "votes": 23,
+        "popularity": 136.4815,
+        "genreIds": [
+          35,
+          10759,
+          10762,
+          16,
+          10751
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 46260,
+        "type": "tv",
+        "title": "Naruto",
+        "originalTitle": "\u30ca\u30eb\u30c8",
+        "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+        "poster": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+        "backdrop": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+        "date": "2002-10-03",
+        "year": "2002",
+        "rating": 8.4,
+        "votes": 6132,
+        "popularity": 126.1175,
         "genreIds": [
           16,
           10759,
@@ -3528,46 +3586,6 @@
         "lang": "ja"
       },
       {
-        "id": 95897,
-        "type": "tv",
-        "title": "Overflow",
-        "originalTitle": "\u304a\u30fc\u3070\u30fc\u3075\u308d\u3049",
-        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
-        "poster": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "backdrop": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
-        "date": "2020-01-06",
-        "year": "2020",
-        "rating": 7.5,
-        "votes": 96,
-        "popularity": 155.9931,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 34860,
-        "type": "tv",
-        "title": "Ninja Boy Rantaro",
-        "originalTitle": "\u5fcd\u305f\u307e\u4e71\u592a\u90ce",
-        "overview": "Rantar\u014d, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
-        "poster": "/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "backdrop": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
-        "date": "1993-04-10",
-        "year": "1993",
-        "rating": 6.8,
-        "votes": 23,
-        "popularity": 136.4815,
-        "genreIds": [
-          35,
-          10759,
-          10762,
-          16,
-          10751
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 95479,
         "type": "tv",
         "title": "JUJUTSU KAISEN",
@@ -3578,32 +3596,12 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4676,
+        "votes": 4677,
         "popularity": 118.567,
         "genreIds": [
           16,
           10765,
           10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 31910,
-        "type": "tv",
-        "title": "Naruto Shipp\u016bden",
-        "originalTitle": "\u30ca\u30eb\u30c8 \u75be\u98a8\u4f1d",
-        "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-        "poster": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
-        "backdrop": "/swFtS1S5556BFrQNJkwTTmyBFIT.jpg",
-        "date": "2007-02-15",
-        "year": "2007",
-        "rating": 8.5,
-        "votes": 8795,
-        "popularity": 99.4241,
-        "genreIds": [
-          16,
-          10759,
-          10765
         ],
         "lang": "ja"
       },
@@ -3626,6 +3624,24 @@
         "lang": "ja"
       },
       {
+        "id": 233643,
+        "type": "tv",
+        "title": "Secret Mission - Undercover Agents Never Back Down!",
+        "originalTitle": "\u3057\u30fc\u304f\u308c\u3063\u3068\u307f\u3063\u3057\u3087\u3093\uff5e\u6f5c\u5165\u635c\u67fb\u5b98\u306f\u7d76\u5bfe\u306b\u8ca0\u3051\u306a\u3044\uff01\uff5e",
+        "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
+        "poster": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "backdrop": "/9FEXhTENjLPgmv7ElYGMnTUKxdu.jpg",
+        "date": "2023-10-02",
+        "year": "2023",
+        "rating": 6.2,
+        "votes": 26,
+        "popularity": 112.3037,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 46298,
         "type": "tv",
         "title": "Hunter x Hunter",
@@ -3636,7 +3652,7 @@
         "date": "2011-10-02",
         "year": "2011",
         "rating": 8.7,
-        "votes": 2216,
+        "votes": 2217,
         "popularity": 110.502,
         "genreIds": [
           16,
@@ -3676,33 +3692,12 @@
         "date": "1989-04-26",
         "year": "1989",
         "rating": 8.4,
-        "votes": 5019,
+        "votes": 5020,
         "popularity": 106.7631,
         "genreIds": [
           16,
           10765,
           10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 57706,
-        "type": "tv",
-        "title": "Ranma \u00bd",
-        "originalTitle": "\u3089\u3093\u307e1/2",
-        "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
-        "poster": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
-        "backdrop": "/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
-        "date": "1989-04-15",
-        "year": "1989",
-        "rating": 8.6,
-        "votes": 1549,
-        "popularity": 103.6522,
-        "genreIds": [
-          35,
-          10759,
-          16,
-          10765
         ],
         "lang": "ja"
       }

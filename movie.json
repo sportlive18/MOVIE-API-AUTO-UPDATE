@@ -12,9 +12,9 @@
         "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4069,
-        "popularity": 911.1835,
+        "rating": 8.3,
+        "votes": 4154,
+        "popularity": 927.1918,
         "genreIds": [
           878,
           28,
@@ -34,8 +34,8 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 644,
-        "popularity": 337.0421,
+        "votes": 650,
+        "popularity": 316.6079,
         "genreIds": [
           18,
           9648,
@@ -54,9 +54,9 @@
         "backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "date": "2026-09-28",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 224,
-        "popularity": 200.3842,
+        "rating": 7.6,
+        "votes": 233,
+        "popularity": 183.1036,
         "genreIds": [
           35,
           18
@@ -69,20 +69,39 @@
         "type": "movie",
         "title": "Insidious: Out of the Further",
         "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
         "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
         "backdrop": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 320,
-        "popularity": 247.9204,
+        "votes": 340,
+        "popularity": 286.9072,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101412,
+        "type": "movie",
+        "title": "Fall 2: Deadpoint",
+        "originalTitle": "Fall 2: Deadpoint",
+        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "backdrop": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "date": "2026-09-01",
+        "year": "2026",
+        "rating": 7,
+        "votes": 180,
+        "popularity": 209.0382,
+        "genreIds": [
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1283515,
@@ -96,32 +115,13 @@
         "year": "2026",
         "rating": 6.4,
         "votes": 128,
-        "popularity": 144.7575,
+        "popularity": 136.8533,
         "genreIds": [
           9648,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101412,
-        "type": "movie",
-        "title": "Fall 2: Deadpoint",
-        "originalTitle": "Fall 2: Deadpoint",
-        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "backdrop": "/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
-        "date": "2026-09-01",
-        "year": "2026",
-        "rating": 7,
-        "votes": 166,
-        "popularity": 134.4102,
-        "genreIds": [
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -134,8 +134,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 795,
-        "popularity": 641.9788,
+        "votes": 798,
+        "popularity": 957.9474,
         "genreIds": [
           27,
           878,
@@ -145,25 +145,23 @@
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 977942,
-        "type": "movie",
-        "title": "The Uprising",
-        "originalTitle": "The Uprising",
-        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "date": "2026-09-10",
+        "id": 258165,
+        "type": "tv",
+        "title": "East of Eden",
+        "originalTitle": "East of Eden",
+        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+        "poster": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+        "backdrop": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+        "date": "2026-10-01",
         "year": "2026",
         "rating": 8,
-        "votes": 243,
-        "popularity": 144.5524,
+        "votes": 42,
+        "popularity": 118.2123,
         "genreIds": [
-          36,
-          18,
-          28
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/977942?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/258165?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -177,9 +175,9 @@
         "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4067,
-        "popularity": 911.1835,
+        "rating": 8.3,
+        "votes": 4157,
+        "popularity": 927.1918,
         "genreIds": [
           878,
           28,
@@ -189,24 +187,23 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1291595,
+        "id": 1101412,
         "type": "movie",
-        "title": "Insidious: Out of the Further",
-        "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "backdrop": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-        "date": "2026-08-19",
+        "title": "Fall 2: Deadpoint",
+        "originalTitle": "Fall 2: Deadpoint",
+        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "backdrop": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "date": "2026-09-01",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 318,
-        "popularity": 247.9204,
+        "rating": 7,
+        "votes": 180,
+        "popularity": 209.0382,
         "genreIds": [
-          27,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -219,8 +216,8 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 644,
-        "popularity": 337.0421,
+        "votes": 650,
+        "popularity": 316.6079,
         "genreIds": [
           18,
           9648,
@@ -230,23 +227,24 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101412,
+        "id": 1291595,
         "type": "movie",
-        "title": "Fall 2: Deadpoint",
-        "originalTitle": "Fall 2: Deadpoint",
-        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "backdrop": "/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
-        "date": "2026-09-01",
+        "title": "Insidious: Out of the Further",
+        "originalTitle": "Insidious: Out of the Further",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "backdrop": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+        "date": "2026-08-19",
         "year": "2026",
-        "rating": 7,
-        "votes": 164,
-        "popularity": 134.4102,
+        "rating": 7.4,
+        "votes": 340,
+        "popularity": 286.9072,
         "genreIds": [
+          27,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 288673,
@@ -258,9 +256,9 @@
         "backdrop": "/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
         "date": "2026-10-07",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 9,
-        "popularity": 28.4458,
+        "rating": 8.7,
+        "votes": 15,
+        "popularity": 115.0272,
         "genreIds": [
           9648,
           18
@@ -279,8 +277,8 @@
         "date": "2026-09-02",
         "year": "2026",
         "rating": 5.7,
-        "votes": 57,
-        "popularity": 67.5917,
+        "votes": 59,
+        "popularity": 83.5883,
         "genreIds": [
           28,
           27,
@@ -288,26 +286,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284046?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1400837,
-        "type": "movie",
-        "title": "Other Mommy",
-        "originalTitle": "Other Mommy",
-        "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "backdrop": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-        "date": "2026-10-07",
-        "year": "2026",
-        "rating": 9,
-        "votes": 9,
-        "popularity": 46.2349,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1400837?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -321,13 +299,33 @@
         "year": "2020",
         "rating": 8.4,
         "votes": 2720,
-        "popularity": 219.7907,
+        "popularity": 258.099,
         "genreIds": [
           18,
           35
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1400837,
+        "type": "movie",
+        "title": "Other Mommy",
+        "originalTitle": "Other Mommy",
+        "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "backdrop": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": 9,
+        "votes": 9,
+        "popularity": 64.3306,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1400837?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1248832,
@@ -339,9 +337,9 @@
         "backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "date": "2026-09-28",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 224,
-        "popularity": 200.3842,
+        "rating": 7.6,
+        "votes": 234,
+        "popularity": 183.1036,
         "genreIds": [
           35,
           18
@@ -361,7 +359,7 @@
         "year": "2026",
         "rating": 7.8,
         "votes": 39,
-        "popularity": 38.9589,
+        "popularity": 53.5279,
         "genreIds": [
           80,
           18,
@@ -371,39 +369,18 @@
         "iframe": "https://peachify.top/embed/tv/258230?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 312693,
-        "type": "tv",
-        "title": "Small Prophets",
-        "originalTitle": "Small Prophets",
-        "overview": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
-        "poster": "/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
-        "backdrop": "/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-        "date": "2026-02-09",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 49,
-        "popularity": 9.7555,
-        "genreIds": [
-          35,
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/312693?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 305551,
         "type": "tv",
         "title": "Merry Berry Love",
         "originalTitle": "\u30e1\u30ea\u30fc\u30d9\u30ea\u30fc\u30e9\u30d6",
         "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
-        "poster": "/xuXmX4jgxk14R3IQNQK8igUDqSo.jpg",
+        "poster": "/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
         "backdrop": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
         "date": "2026-10-07",
         "year": "2026",
-        "rating": 8,
-        "votes": 1,
-        "popularity": 12.4712,
+        "rating": 9,
+        "votes": 2,
+        "popularity": 28.354,
         "genreIds": [
           35,
           18
@@ -412,24 +389,47 @@
         "iframe": "https://peachify.top/embed/tv/305551?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1283515,
-        "type": "movie",
-        "title": "Verity",
-        "originalTitle": "Verity",
-        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "poster": "/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-        "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "date": "2026-09-30",
+        "id": 321518,
+        "type": "tv",
+        "title": "The World's Strongest Witch",
+        "originalTitle": "\u4e16\u754c\u6700\u5f37\u306e\u9b54\u5973\u3001\u59cb\u3081\u307e\u3057\u305f",
+        "overview": "Cast out by her aristocratic family after manifesting a seemingly useless skill, Lorna discovers her ability, \u201cInternet,\u201d is an SSS-rank cheat that grants her access to the entirety of the world\u2019s knowledge. All Lorna wants is a peaceful life, but as she collects rare gear and potent items, the \u201cworld\u2019s weakest witch\u201d suddenly becomes very powerful, landing in one chaotic adventure after another.",
+        "poster": "/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
+        "backdrop": "/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+        "date": "2026-10-07",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 128,
-        "popularity": 144.7575,
+        "rating": null,
+        "votes": 0,
+        "popularity": 7.5442,
         "genreIds": [
-          9648,
-          53
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/321518?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 312693,
+        "type": "tv",
+        "title": "Small Prophets",
+        "originalTitle": "Small Prophets",
+        "overview": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
+        "poster": "/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+        "backdrop": "/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+        "date": "2026-02-09",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 49,
+        "popularity": 27.1542,
+        "genreIds": [
+          35,
+          18,
+          9648
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/312693?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -442,8 +442,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 795,
-        "popularity": 641.9788,
+        "votes": 798,
+        "popularity": 957.9474,
         "genreIds": [
           27,
           878,
@@ -453,67 +453,104 @@
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95480,
+        "id": 250203,
         "type": "tv",
-        "title": "Slow Horses",
-        "originalTitle": "Slow Horses",
-        "overview": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-        "poster": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-        "backdrop": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "date": "2022-04-01",
-        "year": "2022",
-        "rating": 8,
-        "votes": 1021,
-        "popularity": 195.2972,
+        "title": "Brothers",
+        "originalTitle": "Brothers",
+        "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+        "poster": "/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+        "backdrop": "/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+        "date": "2026-09-22",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 12,
+        "popularity": 35.3797,
         "genreIds": [
-          80,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/250203?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 290233,
+        "type": "tv",
+        "title": "Inside The Circle",
+        "originalTitle": "El C\u00edrculo",
+        "overview": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
+        "poster": "/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg",
+        "backdrop": "/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": 9,
+        "votes": 1,
+        "popularity": 22.0095,
+        "genreIds": [
           18,
           9648
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95480?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/290233?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1620080,
+        "id": 1283515,
         "type": "movie",
-        "title": "Less of a Stranger",
-        "originalTitle": "Mniej obcy",
-        "overview": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality.",
-        "poster": "/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-        "backdrop": "/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
-        "date": "2026-09-21",
+        "title": "Verity",
+        "originalTitle": "Verity",
+        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+        "poster": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+        "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "date": "2026-09-30",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 2.2219,
+        "rating": 6.4,
+        "votes": 128,
+        "popularity": 136.8533,
+        "genreIds": [
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 290856,
+        "type": "tv",
+        "title": "Marshals",
+        "originalTitle": "Marshals",
+        "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+        "poster": "/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+        "backdrop": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+        "date": "2026-03-01",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 383,
+        "popularity": 98.3029,
         "genreIds": [
           18,
-          10402
+          80,
+          10759
         ],
-        "lang": "pl",
-        "iframe": "https://peachify.top/embed/movie/1620080?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/290856?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 313346,
+        "id": 275722,
         "type": "tv",
-        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "originalTitle": "\u8ffd\u653e\u3055\u308c\u305f\u30c1\u30fc\u30c8\u4ed8\u4e0e\u9b54\u8853\u5e2b\u306f\u6c17\u307e\u307e\u306a\u30bb\u30ab\u30f3\u30c9\u30e9\u30a4\u30d5\u3092\u8b33\u6b4c\u3059\u308b\u3002 \uff5e\u4ffa\u306f\u6b66\u5668\u3060\u3051\u3058\u3083\u306a\u304f\u3001\u3042\u3089\u3086\u308b\u3082\u306e\u306b\u300e\u5f37\u5316\u30dd\u30a4\u30f3\u30c8\u300f\u3092\u4ed8\u4e0e\u3067\u304d\u308b\u3057\u3001\u4ffa\u306e\u610f\u601d\u3067\u3044\u3064\u3067\u3082\u52b9\u679c\u3092\u89e3\u9664\u3067\u304d\u308b\u3051\u3069\u3001\u6b8b\u3063\u305f\u4eba\u305f\u3061\u5927\u4e08\u592b\uff1f\uff5e",
-        "overview": "Rein spent years enhancing his guildmates\u2019 gear with magic, only to be expelled the moment he enchanted everything. Unfazed, Rein steals back his magic, pours it into his own sword, and makes the best of his newfound freedom as he sets off as an adventurer. Along the way, Rein gathers a band of fellow outcasts and together they fight monsters and carve out their place in an enchanted world.",
-        "poster": "/rncb111IIBmIIO9I9ENW0Xc8mca.jpg",
-        "backdrop": "/msusxF6ZPGnQmTGXU9iC4UJOohs.jpg",
-        "date": "2026-10-07",
-        "year": "2026",
-        "rating": 10,
-        "votes": 1,
-        "popularity": 15.9008,
+        "title": "Vampirina: Teenage Vampire",
+        "originalTitle": "Vampirina: Teenage Vampire",
+        "overview": "Follow a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living amongst humans for the first time, she pursues her passion for music while keeping her vampire identity a secret, something that\u2019s made more challenging when her overprotective father charges an overzealous ghost to live with her at the school.",
+        "poster": "/7TwsVRLD1rKnlIpn8pAQQo5YeY2.jpg",
+        "backdrop": "/uoxufQOHw6qv49bjTQgT0SzrEVY.jpg",
+        "date": "2025-09-12",
+        "year": "2025",
+        "rating": 7.3,
+        "votes": 19,
+        "popularity": 18.1831,
         "genreIds": [
-          16,
-          35,
-          10759,
-          10765
+          10765,
+          35
         ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/313346?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/275722?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1400940,
@@ -527,7 +564,7 @@
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 24.7638,
+        "popularity": 27.5631,
         "genreIds": [
           27,
           53,
@@ -535,48 +572,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1400940?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 312850,
-        "type": "tv",
-        "title": "Nia Liston: The Merciless Maiden",
-        "originalTitle": "\u51f6\u4e71\u4ee4\u5b22\u30cb\u30a2\u30fb\u30ea\u30b9\u30c8\u30f3 \u75c5\u5f31\u4ee4\u5b22\u306b\u8ee2\u751f\u3057\u305f\u795e\u6bba\u3057\u306e\u6b66\u4eba\u306e\u83ef\u9e97\u306a\u308b\u7121\u53cc\u9332",
-        "overview": "A dying girl is saved when a fallen warrior\u2019s soul is placed in her body, giving her new life, healing powers, and an unstoppable thirst for battle that brings chaos in its wake.",
-        "poster": "/vsEJaex0keh3dmBC9sVymiKfSwA.jpg",
-        "backdrop": "/aNqi7yWUU1blc8kvtfzrkrrYWEE.jpg",
-        "date": "2026-10-06",
-        "year": "2026",
-        "rating": 5.5,
-        "votes": 2,
-        "popularity": 12.5316,
-        "genreIds": [
-          10765,
-          16,
-          35
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/312850?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 96.5158,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -590,8 +585,8 @@
         "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 3995,
+        "rating": 8.3,
+        "votes": 4148,
         "popularity": 911.1835,
         "genreIds": [
           878,
@@ -611,7 +606,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 788,
+        "votes": 797,
         "popularity": 641.9788,
         "genreIds": [
           27,
@@ -652,7 +647,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 4040,
+        "votes": 4044,
         "popularity": 317.4633,
         "genreIds": [
           12,
@@ -673,7 +668,7 @@
         "year": "2026",
         "rating": 6.9,
         "votes": 50,
-        "popularity": 276.4634,
+        "popularity": 276.4334,
         "genreIds": [
           28,
           53
@@ -691,7 +686,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 409,
+        "votes": 415,
         "popularity": 272.8819,
         "genreIds": [
           28,
@@ -704,13 +699,13 @@
         "type": "movie",
         "title": "Insidious: Out of the Further",
         "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
         "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
         "backdrop": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 307,
+        "votes": 338,
         "popularity": 247.9204,
         "genreIds": [
           27,
@@ -749,7 +744,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.5,
-        "votes": 689,
+        "votes": 691,
         "popularity": 222.0387,
         "genreIds": [
           35,
@@ -768,8 +763,8 @@
         "backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
         "date": "2026-09-28",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 216,
+        "rating": 7.6,
+        "votes": 233,
         "popularity": 200.3842,
         "genreIds": [
           35,
@@ -788,7 +783,7 @@
         "date": "2021-11-24",
         "year": "2021",
         "rating": 5.9,
-        "votes": 2851,
+        "votes": 2855,
         "popularity": 198.0246,
         "genreIds": [
           28,
@@ -808,8 +803,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7.1,
-        "votes": 1896,
-        "popularity": 192.9096,
+        "votes": 1903,
+        "popularity": 182.6396,
         "genreIds": [
           878,
           9648,
@@ -848,7 +843,7 @@
         "year": "1985",
         "rating": 4.1,
         "votes": 27,
-        "popularity": 168.9041,
+        "popularity": 186.3038,
         "genreIds": [
           35
         ],
@@ -864,8 +859,8 @@
         "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
         "date": "2026-09-23",
         "year": "2026",
-        "rating": 8,
-        "votes": 504,
+        "rating": 8.1,
+        "votes": 512,
         "popularity": 167.4747,
         "genreIds": [
           10749,
@@ -884,7 +879,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.3,
-        "votes": 2515,
+        "votes": 2520,
         "popularity": 159.5615,
         "genreIds": [
           16,
@@ -905,8 +900,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5969,
-        "popularity": 155.397,
+        "votes": 5976,
+        "popularity": 152.4461,
         "genreIds": [
           27,
           53
@@ -925,7 +920,7 @@
         "year": "2026",
         "rating": 6.5,
         "votes": 127,
-        "popularity": 146.1499,
+        "popularity": 152.4442,
         "genreIds": [
           27,
           14,
@@ -939,12 +934,12 @@
         "title": "Verity",
         "originalTitle": "Verity",
         "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "poster": "/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-        "backdrop": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "poster": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+        "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "date": "2026-09-30",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 119,
+        "rating": 6.4,
+        "votes": 128,
         "popularity": 144.7575,
         "genreIds": [
           9648,
@@ -963,7 +958,7 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 8,
-        "votes": 242,
+        "votes": 244,
         "popularity": 144.5524,
         "genreIds": [
           36,
@@ -2319,7 +2314,7 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4815,
+        "votes": 4817,
         "popularity": 373.6094,
         "genreIds": [
           80,
@@ -2358,7 +2353,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 637,
+        "votes": 646,
         "popularity": 337.0421,
         "genreIds": [
           18,
@@ -2436,7 +2431,7 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 11054,
+        "votes": 11056,
         "popularity": 308.7511,
         "genreIds": [
           16,
@@ -2471,7 +2466,7 @@
         "date": "2005-03-24",
         "year": "2005",
         "rating": 8.6,
-        "votes": 5547,
+        "votes": 5548,
         "popularity": 301.907,
         "genreIds": [
           35
@@ -2507,7 +2502,7 @@
         "date": "1996-07-22",
         "year": "1996",
         "rating": 6.4,
-        "votes": 665,
+        "votes": 666,
         "popularity": 289.7458,
         "genreIds": [
           10763,
@@ -3595,7 +3590,7 @@
         "date": "2024-10-06",
         "year": "2024",
         "rating": 8.1,
-        "votes": 189,
+        "votes": 190,
         "popularity": 127.3629,
         "genreIds": [
           16,
@@ -3672,7 +3667,7 @@
         "date": "1996-01-08",
         "year": "1996",
         "rating": 8,
-        "votes": 791,
+        "votes": 792,
         "popularity": 117.2422,
         "genreIds": [
           16,

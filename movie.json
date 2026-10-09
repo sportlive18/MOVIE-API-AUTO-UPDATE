@@ -3,26 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 1236045,
-        "type": "movie",
-        "title": "Animals",
-        "originalTitle": "Animals",
-        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-        "poster": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-        "backdrop": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-        "date": "2026-10-09",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 10,
-        "popularity": 8.6916,
-        "genreIds": [
-          53,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1236045?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -33,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4527,
+        "votes": 4570,
         "popularity": 956.4914,
         "genreIds": [
           878,
@@ -42,6 +22,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1236045,
+        "type": "movie",
+        "title": "Animals",
+        "originalTitle": "Animals",
+        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+        "poster": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "backdrop": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "date": "2026-10-09",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 22,
+        "popularity": 8.6916,
+        "genreIds": [
+          53,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1236045?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1148365,
@@ -53,8 +53,8 @@
         "backdrop": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
         "date": "2026-10-05",
         "year": "2026",
-        "rating": 7,
-        "votes": 13,
+        "rating": 7.4,
+        "votes": 27,
         "popularity": 14.756,
         "genreIds": [
           28,
@@ -63,48 +63,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1148365?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 673,
-        "popularity": 312.2773,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 288673,
-        "type": "tv",
-        "title": "Carrie",
-        "originalTitle": "Carrie",
-        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social\u2011media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-        "poster": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-        "backdrop": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "date": "2026-10-07",
-        "year": "2026",
-        "rating": 8.4,
-        "votes": 68,
-        "popularity": 195.6302,
-        "genreIds": [
-          9648,
-          18,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/288673?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -117,7 +75,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 439,
+        "votes": 447,
         "popularity": 330.2366,
         "genreIds": [
           27,
@@ -125,6 +83,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 679,
+        "popularity": 312.2773,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1248832,
@@ -137,7 +116,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.5,
-        "votes": 252,
+        "votes": 260,
         "popularity": 165.93,
         "genreIds": [
           35,
@@ -145,6 +124,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 288673,
+        "type": "tv",
+        "title": "Carrie",
+        "originalTitle": "Carrie",
+        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social\u2011media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+        "poster": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+        "backdrop": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": 8.4,
+        "votes": 75,
+        "popularity": 195.6302,
+        "genreIds": [
+          9648,
+          18,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/288673?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101412,
@@ -157,7 +157,7 @@
         "date": "2026-09-01",
         "year": "2026",
         "rating": 7.2,
-        "votes": 269,
+        "votes": 279,
         "popularity": 225.0661,
         "genreIds": [
           53
@@ -167,47 +167,6 @@
       }
     ],
     "trending": [
-      {
-        "id": 1236045,
-        "type": "movie",
-        "title": "Animals",
-        "originalTitle": "Animals",
-        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-        "poster": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-        "backdrop": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-        "date": "2026-10-09",
-        "year": "2026",
-        "rating": 6,
-        "votes": 12,
-        "popularity": 8.6916,
-        "genreIds": [
-          53,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1236045?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1148365,
-        "type": "movie",
-        "title": "Matchbox the Movie",
-        "originalTitle": "Matchbox the Movie",
-        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-        "poster": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-        "backdrop": "/pgirSzilULweZ9RsXLw1DjfNebw.jpg",
-        "date": "2026-10-05",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 16,
-        "popularity": 14.756,
-        "genreIds": [
-          28,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1148365?accent=7c5cff&dub=Hindi&quality=1080"
-      },
       {
         "id": 123542,
         "type": "tv",
@@ -231,24 +190,45 @@
         "iframe": "https://peachify.top/embed/tv/123542?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 285322,
-        "type": "tv",
-        "title": "Below",
-        "originalTitle": "Below",
-        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-        "poster": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-        "backdrop": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "date": "2026-10-08",
+        "id": 1148365,
+        "type": "movie",
+        "title": "Matchbox the Movie",
+        "originalTitle": "Matchbox the Movie",
+        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+        "poster": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+        "backdrop": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+        "date": "2026-10-05",
         "year": "2026",
-        "rating": 7,
-        "votes": 23,
-        "popularity": 91.1838,
+        "rating": 7.3,
+        "votes": 25,
+        "popularity": 14.756,
         "genreIds": [
-          9648,
+          28,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1148365?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1236045,
+        "type": "movie",
+        "title": "Animals",
+        "originalTitle": "Animals",
+        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+        "poster": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+        "backdrop": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "date": "2026-10-09",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 21,
+        "popularity": 8.6916,
+        "genreIds": [
+          53,
           18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/285322?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1236045?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 288673,
@@ -261,7 +241,7 @@
         "date": "2026-10-07",
         "year": "2026",
         "rating": 8.4,
-        "votes": 70,
+        "votes": 73,
         "popularity": 195.6302,
         "genreIds": [
           9648,
@@ -282,7 +262,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4533,
+        "votes": 4566,
         "popularity": 956.4914,
         "genreIds": [
           878,
@@ -291,6 +271,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 285322,
+        "type": "tv",
+        "title": "Below",
+        "originalTitle": "Below",
+        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+        "poster": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+        "backdrop": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+        "date": "2026-10-08",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 26,
+        "popularity": 91.1838,
+        "genreIds": [
+          9648,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/285322?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 284833,
@@ -302,8 +302,8 @@
         "backdrop": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
         "date": "2026-10-09",
         "year": "2026",
-        "rating": 10,
-        "votes": 3,
+        "rating": 9.6,
+        "votes": 11,
         "popularity": 16.1053,
         "genreIds": [
           16,
@@ -344,35 +344,14 @@
         "backdrop": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
         "date": "2026-10-07",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 27,
+        "rating": 6.4,
+        "votes": 28,
         "popularity": 88.5693,
         "genreIds": [
           27
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1400837?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 674,
-        "popularity": 312.2773,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 293610,
@@ -406,7 +385,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 442,
+        "votes": 445,
         "popularity": 330.2366,
         "genreIds": [
           27,
@@ -414,25 +393,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101412,
-        "type": "movie",
-        "title": "Fall 2: Deadpoint",
-        "originalTitle": "Fall 2: Deadpoint",
-        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "backdrop": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "date": "2026-09-01",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 269,
-        "popularity": 225.0661,
-        "genreIds": [
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1248832,
@@ -445,7 +405,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.5,
-        "votes": 252,
+        "votes": 260,
         "popularity": 165.93,
         "genreIds": [
           35,
@@ -453,6 +413,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 678,
+        "popularity": 312.2773,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101412,
+        "type": "movie",
+        "title": "Fall 2: Deadpoint",
+        "originalTitle": "Fall 2: Deadpoint",
+        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+        "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "backdrop": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "date": "2026-09-01",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 276,
+        "popularity": 225.0661,
+        "genreIds": [
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101412?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247718,
@@ -465,7 +465,7 @@
         "date": "2025-03-30",
         "year": "2025",
         "rating": 8.5,
-        "votes": 989,
+        "votes": 990,
         "popularity": 278.3457,
         "genreIds": [
           80,
@@ -475,24 +475,89 @@
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 255752,
-        "type": "tv",
-        "title": "Haunted Hotel",
-        "originalTitle": "Haunted Hotel",
-        "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost \u2014 and high-maintenance guests who will never check out.",
-        "poster": "/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
-        "backdrop": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-        "date": "2025-09-19",
-        "year": "2025",
-        "rating": 8.1,
-        "votes": 123,
-        "popularity": 17.3724,
+        "id": 1742441,
+        "type": "movie",
+        "title": "V/H/S/Mixtape",
+        "originalTitle": "V/H/S/Mixtape",
+        "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
+        "poster": "/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+        "backdrop": "/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+        "date": "2026-10-09",
+        "year": "2026",
+        "rating": 3,
+        "votes": 1,
+        "popularity": 6.4768,
         "genreIds": [
-          16,
-          35
+          27,
+          10402,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/255752?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1742441?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284046,
+        "type": "movie",
+        "title": "Onslaught",
+        "originalTitle": "Onslaught",
+        "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+        "poster": "/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+        "backdrop": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+        "date": "2026-09-02",
+        "year": "2026",
+        "rating": 5.8,
+        "votes": 74,
+        "popularity": 87.2738,
+        "genreIds": [
+          28,
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284046?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1423191,
+        "type": "movie",
+        "title": "Resident Evil",
+        "originalTitle": "Resident Evil",
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 826,
+        "popularity": 843.9801,
+        "genreIds": [
+          27,
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 284580,
+        "type": "tv",
+        "title": "A Certain Dark Item",
+        "originalTitle": "\u3068\u3042\u308b\u6697\u90e8\u306e\u5c11\u5973\u5171\u68f2",
+        "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
+        "poster": "/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+        "backdrop": "/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
+        "date": "2026-10-09",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 3.2237,
+        "genreIds": [
+          16,
+          10759,
+          9648,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/284580?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 303630,
@@ -512,67 +577,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/303630?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 294446,
-        "type": "tv",
-        "title": "The Vanishing Beauty",
-        "originalTitle": "\u7f8e\u4eba\u4f59",
-        "overview": "Yu Meng, an only child from Jiangsu Zhejiang Shanghai and a popular internet blogger, is admired as a woman with a perfect life. On her fifth wedding anniversary, the bubble of her seemingly flawless happiness shatters. Her model husband is no longer so perfect, and her marriage begins to crack, while she also faces the threat of being financially exploited. With the support of her friends, Yu Meng reexamines her life and fights to take back control.",
-        "poster": "/m3r695bVVi5y4UjbqIdkSkz060f.jpg",
-        "backdrop": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
-        "date": "2026-10-09",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2,
-        "popularity": 5.1325,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/294446?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1423191,
-        "type": "movie",
-        "title": "Resident Evil",
-        "originalTitle": "Resident Evil",
-        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 821,
-        "popularity": 843.9801,
-        "genreIds": [
-          27,
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284046,
-        "type": "movie",
-        "title": "Onslaught",
-        "originalTitle": "Onslaught",
-        "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-        "poster": "/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-        "backdrop": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-        "date": "2026-09-02",
-        "year": "2026",
-        "rating": 5.7,
-        "votes": 70,
-        "popularity": 87.2738,
-        "genreIds": [
-          28,
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284046?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -587,7 +591,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4520,
+        "votes": 4560,
         "popularity": 956.4914,
         "genreIds": [
           878,
@@ -607,7 +611,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 819,
+        "votes": 825,
         "popularity": 843.9801,
         "genreIds": [
           27,
@@ -627,7 +631,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 4056,
+        "votes": 4063,
         "popularity": 347.4248,
         "genreIds": [
           12,
@@ -647,7 +651,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 437,
+        "votes": 443,
         "popularity": 330.2366,
         "genreIds": [
           27,
@@ -666,34 +670,13 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 6.8,
-        "votes": 52,
+        "votes": 53,
         "popularity": 274.5749,
         "genreIds": [
           28,
           53
         ],
         "lang": "en"
-      },
-      {
-        "id": 1599191,
-        "type": "movie",
-        "title": "Renegade Immortal: Battle of the Immortal Slayer",
-        "originalTitle": "\u4ed9\u9006\u5267\u573a\u7248\uff1a\u5f11\u4ed9\u4e4b\u6218",
-        "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
-        "poster": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "backdrop": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-        "date": "2026-10-01",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 14,
-        "popularity": 162.6296,
-        "genreIds": [
-          16,
-          28,
-          12,
-          14
-        ],
-        "lang": "zh"
       },
       {
         "id": 1377237,
@@ -706,7 +689,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 443,
+        "votes": 447,
         "popularity": 259.3649,
         "genreIds": [
           28,
@@ -725,7 +708,7 @@
         "date": "2026-09-01",
         "year": "2026",
         "rating": 7.2,
-        "votes": 268,
+        "votes": 275,
         "popularity": 225.0661,
         "genreIds": [
           53
@@ -763,7 +746,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.5,
-        "votes": 696,
+        "votes": 700,
         "popularity": 186.6723,
         "genreIds": [
           35,
@@ -793,44 +776,6 @@
         "lang": "en"
       },
       {
-        "id": 30723,
-        "type": "movie",
-        "title": "Cavegirl",
-        "originalTitle": "Cavegirl",
-        "overview": "On a class excursion to a cave with stone age paintings the clumsy Rex gets lost. A mysterious crystal opens a gateway in time and sets him back to the stone ages, where he meets a group of prehistoric fellows and the gorgeous Eba. While teaching her English and doing some pseudo-research on her fellows, his main goal is to get her sleeping with him. However the curiosity of the clan chief disturbs his attempts.",
-        "poster": "/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
-        "backdrop": "/akJghVpe8jwWXEA5aWRNhJWozGL.jpg",
-        "date": "1985-05-01",
-        "year": "1985",
-        "rating": 4.1,
-        "votes": 27,
-        "popularity": 210.7494,
-        "genreIds": [
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 1926,
-        "popularity": 172.9648,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1294189,
         "type": "movie",
         "title": "The Mongoose",
@@ -845,6 +790,26 @@
         "popularity": 177.7768,
         "genreIds": [
           28,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 1931,
+        "popularity": 172.9648,
+        "genreIds": [
+          878,
+          9648,
           53
         ],
         "lang": "en"
@@ -878,7 +843,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.5,
-        "votes": 252,
+        "votes": 259,
         "popularity": 165.93,
         "genreIds": [
           35,
@@ -887,23 +852,25 @@
         "lang": "en"
       },
       {
-        "id": 1032863,
+        "id": 1599191,
         "type": "movie",
-        "title": "The Love Hypothesis",
-        "originalTitle": "The Love Hypothesis",
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "date": "2026-09-23",
+        "title": "Renegade Immortal: Battle of the Immortal Slayer",
+        "originalTitle": "\u4ed9\u9006\u5267\u573a\u7248\uff1a\u5f11\u4ed9\u4e4b\u6218",
+        "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
+        "poster": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+        "backdrop": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+        "date": "2026-10-01",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 524,
-        "popularity": 140.8315,
+        "rating": 7.5,
+        "votes": 14,
+        "popularity": 162.6296,
         "genreIds": [
-          10749,
-          35
+          16,
+          28,
+          12,
+          14
         ],
-        "lang": "en"
+        "lang": "zh"
       },
       {
         "id": 1084244,
@@ -916,7 +883,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.3,
-        "votes": 2530,
+        "votes": 2533,
         "popularity": 149.4361,
         "genreIds": [
           16,
@@ -957,10 +924,48 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5992,
+        "votes": 5997,
         "popularity": 144.1367,
         "genreIds": [
           27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1032863,
+        "type": "movie",
+        "title": "The Love Hypothesis",
+        "originalTitle": "The Love Hypothesis",
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 528,
+        "popularity": 140.8315,
+        "genreIds": [
+          10749,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "backdrop": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 819,
+        "popularity": 123.095,
+        "genreIds": [
+          28,
           53
         ],
         "lang": "en"
@@ -1375,7 +1380,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 819,
+        "votes": 825,
         "popularity": 843.9801,
         "genreIds": [
           27,
@@ -1395,7 +1400,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 4056,
+        "votes": 4063,
         "popularity": 347.4248,
         "genreIds": [
           12,
@@ -1415,34 +1420,13 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 6.8,
-        "votes": 52,
+        "votes": 53,
         "popularity": 274.5749,
         "genreIds": [
           28,
           53
         ],
         "lang": "en"
-      },
-      {
-        "id": 1599191,
-        "type": "movie",
-        "title": "Renegade Immortal: Battle of the Immortal Slayer",
-        "originalTitle": "\u4ed9\u9006\u5267\u573a\u7248\uff1a\u5f11\u4ed9\u4e4b\u6218",
-        "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
-        "poster": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "backdrop": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-        "date": "2026-10-01",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 14,
-        "popularity": 162.6296,
-        "genreIds": [
-          16,
-          28,
-          12,
-          14
-        ],
-        "lang": "zh"
       },
       {
         "id": 1377237,
@@ -1455,7 +1439,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 443,
+        "votes": 447,
         "popularity": 259.3649,
         "genreIds": [
           28,
@@ -1474,7 +1458,7 @@
         "date": "2026-09-01",
         "year": "2026",
         "rating": 7.2,
-        "votes": 268,
+        "votes": 275,
         "popularity": 225.0661,
         "genreIds": [
           53
@@ -1512,7 +1496,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.5,
-        "votes": 696,
+        "votes": 700,
         "popularity": 186.6723,
         "genreIds": [
           35,
@@ -1550,7 +1534,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.5,
-        "votes": 251,
+        "votes": 258,
         "popularity": 165.93,
         "genreIds": [
           35,
@@ -1559,23 +1543,25 @@
         "lang": "en"
       },
       {
-        "id": 1032863,
+        "id": 1599191,
         "type": "movie",
-        "title": "The Love Hypothesis",
-        "originalTitle": "The Love Hypothesis",
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "date": "2026-09-23",
+        "title": "Renegade Immortal: Battle of the Immortal Slayer",
+        "originalTitle": "\u4ed9\u9006\u5267\u573a\u7248\uff1a\u5f11\u4ed9\u4e4b\u6218",
+        "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
+        "poster": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+        "backdrop": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+        "date": "2026-10-01",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 524,
-        "popularity": 140.8315,
+        "rating": 7.5,
+        "votes": 14,
+        "popularity": 162.6296,
         "genreIds": [
-          10749,
-          35
+          16,
+          28,
+          12,
+          14
         ],
-        "lang": "en"
+        "lang": "zh"
       },
       {
         "id": 1232569,
@@ -1608,10 +1594,48 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5992,
+        "votes": 5997,
         "popularity": 144.1367,
         "genreIds": [
           27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1032863,
+        "type": "movie",
+        "title": "The Love Hypothesis",
+        "originalTitle": "The Love Hypothesis",
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 527,
+        "popularity": 140.8315,
+        "genreIds": [
+          10749,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "backdrop": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 819,
+        "popularity": 123.095,
+        "genreIds": [
+          28,
           53
         ],
         "lang": "en"
@@ -1626,73 +1650,14 @@
         "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "date": "2026-09-30",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 137,
+        "rating": 6.4,
+        "votes": 141,
         "popularity": 122.592,
         "genreIds": [
           9648,
           53
         ],
         "lang": "en"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "backdrop": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 818,
-        "popularity": 123.095,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 977942,
-        "type": "movie",
-        "title": "The Uprising",
-        "originalTitle": "The Uprising",
-        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 8,
-        "votes": 263,
-        "popularity": 119.8056,
-        "genreIds": [
-          36,
-          18,
-          28
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1375646,
-        "type": "movie",
-        "title": "Colony",
-        "originalTitle": "\uad70\uccb4",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-        "date": "2026-05-21",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 1090,
-        "popularity": 116.7254,
-        "genreIds": [
-          27,
-          28,
-          878
-        ],
-        "lang": "ko"
       },
       {
         "id": 1556321,
@@ -1715,6 +1680,46 @@
         "lang": "th"
       },
       {
+        "id": 977942,
+        "type": "movie",
+        "title": "The Uprising",
+        "originalTitle": "The Uprising",
+        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 8,
+        "votes": 264,
+        "popularity": 119.8056,
+        "genreIds": [
+          36,
+          18,
+          28
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1375646,
+        "type": "movie",
+        "title": "Colony",
+        "originalTitle": "\uad70\uccb4",
+        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+        "date": "2026-05-21",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 1094,
+        "popularity": 116.7254,
+        "genreIds": [
+          27,
+          28,
+          878
+        ],
+        "lang": "ko"
+      },
+      {
         "id": 1263337,
         "type": "movie",
         "title": "Heart of the Beast",
@@ -1725,7 +1730,7 @@
         "date": "2026-09-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 252,
+        "votes": 255,
         "popularity": 96.9326,
         "genreIds": [
           12,
@@ -1744,7 +1749,7 @@
         "date": "2019-04-24",
         "year": "2019",
         "rating": 8.2,
-        "votes": 28948,
+        "votes": 28955,
         "popularity": 96.6394,
         "genreIds": [
           12,
@@ -1785,7 +1790,7 @@
         "date": "2026-09-07",
         "year": "2026",
         "rating": 8.3,
-        "votes": 443,
+        "votes": 446,
         "popularity": 259.3649,
         "genreIds": [
           28,
@@ -1804,7 +1809,7 @@
         "date": "2026-09-01",
         "year": "2026",
         "rating": 7.2,
-        "votes": 268,
+        "votes": 275,
         "popularity": 225.0661,
         "genreIds": [
           53
@@ -1822,7 +1827,7 @@
         "date": "2026-08-17",
         "year": "2026",
         "rating": 7.5,
-        "votes": 697,
+        "votes": 700,
         "popularity": 186.6723,
         "genreIds": [
           35,
@@ -1861,7 +1866,7 @@
         "date": "2026-09-28",
         "year": "2026",
         "rating": 7.5,
-        "votes": 252,
+        "votes": 257,
         "popularity": 165.93,
         "genreIds": [
           35,
@@ -1900,7 +1905,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5994,
+        "votes": 5997,
         "popularity": 144.1367,
         "genreIds": [
           27,
@@ -1918,12 +1923,32 @@
         "backdrop": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "date": "2026-09-30",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 138,
+        "rating": 6.4,
+        "votes": 141,
         "popularity": 122.592,
         "genreIds": [
           9648,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 977942,
+        "type": "movie",
+        "title": "The Uprising",
+        "originalTitle": "The Uprising",
+        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 8,
+        "votes": 264,
+        "popularity": 119.8056,
+        "genreIds": [
+          36,
+          18,
+          28
         ],
         "lang": "en"
       },
@@ -1938,7 +1963,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 1090,
+        "votes": 1094,
         "popularity": 116.7254,
         "genreIds": [
           27,
@@ -1946,26 +1971,6 @@
           878
         ],
         "lang": "ko"
-      },
-      {
-        "id": 977942,
-        "type": "movie",
-        "title": "The Uprising",
-        "originalTitle": "The Uprising",
-        "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-        "poster": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "backdrop": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 8,
-        "votes": 263,
-        "popularity": 119.8056,
-        "genreIds": [
-          36,
-          18,
-          28
-        ],
-        "lang": "en"
       },
       {
         "id": 1263337,
@@ -1978,7 +1983,7 @@
         "date": "2026-09-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 252,
+        "votes": 255,
         "popularity": 96.9326,
         "genreIds": [
           12,
@@ -1997,12 +2002,30 @@
         "date": "2026-08-03",
         "year": "2026",
         "rating": 4.9,
-        "votes": 118,
+        "votes": 119,
         "popularity": 90.4248,
         "genreIds": [
           35,
           27,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1400837,
+        "type": "movie",
+        "title": "Other Mommy",
+        "originalTitle": "Other Mommy",
+        "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "backdrop": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 27,
+        "popularity": 88.5693,
+        "genreIds": [
+          27
         ],
         "lang": "en"
       },
@@ -2017,7 +2040,7 @@
         "date": "2026-09-02",
         "year": "2026",
         "rating": 5.7,
-        "votes": 70,
+        "votes": 71,
         "popularity": 87.2738,
         "genreIds": [
           28,
@@ -2042,24 +2065,6 @@
         "genreIds": [
           27,
           9648
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1400837,
-        "type": "movie",
-        "title": "Other Mommy",
-        "originalTitle": "Other Mommy",
-        "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "backdrop": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-        "date": "2026-10-07",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 21,
-        "popularity": 88.5693,
-        "genreIds": [
-          27
         ],
         "lang": "en"
       },
@@ -2106,25 +2111,6 @@
         "lang": "en"
       },
       {
-        "id": 1375441,
-        "type": "movie",
-        "title": "Primetime",
-        "originalTitle": "Primetime",
-        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-        "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-        "date": "2026-09-23",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 102,
-        "popularity": 50.3866,
-        "genreIds": [
-          18,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 3933,
         "type": "movie",
         "title": "Corpse Bride",
@@ -2141,6 +2127,25 @@
           10749,
           14,
           16
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1375441,
+        "type": "movie",
+        "title": "Primetime",
+        "originalTitle": "Primetime",
+        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+        "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 102,
+        "popularity": 50.3866,
+        "genreIds": [
+          18,
+          53
         ],
         "lang": "en"
       }
@@ -2544,7 +2549,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 965,
+        "votes": 967,
         "popularity": 50.6652,
         "genreIds": [
           10759,
@@ -2602,7 +2607,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18783,
+        "votes": 18784,
         "popularity": 220.9743,
         "genreIds": [
           18,
@@ -2621,7 +2626,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.9,
-        "votes": 878,
+        "votes": 879,
         "popularity": 63.6515,
         "genreIds": [
           18
@@ -2816,7 +2821,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5142,
+        "votes": 5143,
         "popularity": 37.2186,
         "genreIds": [
           16,
@@ -2836,7 +2841,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5585,
+        "votes": 5586,
         "popularity": 79.0818,
         "genreIds": [
           10759,
@@ -2856,7 +2861,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6219,
+        "votes": 6220,
         "popularity": 49.6602,
         "genreIds": [
           16,
@@ -2894,7 +2899,7 @@
         "date": "2025-01-09",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1002,
+        "votes": 1003,
         "popularity": 102.2774,
         "genreIds": [
           18
@@ -2952,7 +2957,7 @@
         "date": "1999-09-20",
         "year": "1999",
         "rating": 8,
-        "votes": 4366,
+        "votes": 4367,
         "popularity": 433.7026,
         "genreIds": [
           80,
@@ -2981,24 +2986,6 @@
         "lang": "ko"
       },
       {
-        "id": 1416,
-        "type": "tv",
-        "title": "Grey's Anatomy",
-        "originalTitle": "Grey's Anatomy",
-        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-        "date": "2005-03-27",
-        "year": "2005",
-        "rating": 8.2,
-        "votes": 11072,
-        "popularity": 328.8712,
-        "genreIds": [
-          18
-        ],
-        "lang": "en"
-      },
-      {
         "id": 549,
         "type": "tv",
         "title": "Law & Order",
@@ -3018,6 +3005,24 @@
         "lang": "en"
       },
       {
+        "id": 1416,
+        "type": "tv",
+        "title": "Grey's Anatomy",
+        "originalTitle": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+        "date": "2005-03-27",
+        "year": "2005",
+        "rating": 8.2,
+        "votes": 11072,
+        "popularity": 328.8712,
+        "genreIds": [
+          18
+        ],
+        "lang": "en"
+      },
+      {
         "id": 4614,
         "type": "tv",
         "title": "NCIS",
@@ -3028,49 +3033,12 @@
         "date": "2003-09-23",
         "year": "2003",
         "rating": 7.6,
-        "votes": 2584,
+        "votes": 2585,
         "popularity": 294.1429,
         "genreIds": [
           80,
           18,
           10759
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 11890,
-        "type": "tv",
-        "title": "Goede Tijden, Slechte Tijden",
-        "originalTitle": "Goede Tijden, Slechte Tijden",
-        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-        "poster": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-        "backdrop": "/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-        "date": "1990-10-01",
-        "year": "1990",
-        "rating": 5.3,
-        "votes": 21,
-        "popularity": 276.5746,
-        "genreIds": [
-          10766
-        ],
-        "lang": "nl"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.5,
-        "votes": 989,
-        "popularity": 278.3457,
-        "genreIds": [
-          80,
-          18
         ],
         "lang": "en"
       },
@@ -3098,6 +3066,43 @@
         "lang": "ja"
       },
       {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.5,
+        "votes": 989,
+        "popularity": 278.3457,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 11890,
+        "type": "tv",
+        "title": "Goede Tijden, Slechte Tijden",
+        "originalTitle": "Goede Tijden, Slechte Tijden",
+        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+        "poster": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+        "backdrop": "/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+        "date": "1990-10-01",
+        "year": "1990",
+        "rating": 5.3,
+        "votes": 21,
+        "popularity": 276.5746,
+        "genreIds": [
+          10766
+        ],
+        "lang": "nl"
+      },
+      {
         "id": 95480,
         "type": "tv",
         "title": "Slow Horses",
@@ -3108,7 +3113,7 @@
         "date": "2022-04-01",
         "year": "2022",
         "rating": 8,
-        "votes": 1028,
+        "votes": 1029,
         "popularity": 265.5231,
         "genreIds": [
           80,
@@ -3164,7 +3169,7 @@
         "date": "2011-10-05",
         "year": "2011",
         "rating": 8.1,
-        "votes": 6218,
+        "votes": 6219,
         "popularity": 217.5117,
         "genreIds": [
           18,
@@ -3212,6 +3217,26 @@
         "lang": "en"
       },
       {
+        "id": 72879,
+        "type": "tv",
+        "title": "Tomorrow Is Ours",
+        "originalTitle": "Demain nous appartient",
+        "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "poster": "/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+        "backdrop": "/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+        "date": "2017-07-17",
+        "year": "2017",
+        "rating": 6.3,
+        "votes": 74,
+        "popularity": 195.4147,
+        "genreIds": [
+          80,
+          18,
+          10766
+        ],
+        "lang": "fr"
+      },
+      {
         "id": 57775,
         "type": "tv",
         "title": "Chibi Maruko-chan",
@@ -3250,25 +3275,6 @@
         "lang": "en"
       },
       {
-        "id": 3034,
-        "type": "tv",
-        "title": "Scene of the Crime",
-        "originalTitle": "Tatort",
-        "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
-        "poster": "/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
-        "backdrop": "/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
-        "date": "1970-11-29",
-        "year": "1970",
-        "rating": 6.2,
-        "votes": 127,
-        "popularity": 172.5669,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "de"
-      },
-      {
         "id": 70672,
         "type": "tv",
         "title": "Men on a Mission",
@@ -3298,7 +3304,7 @@
         "date": "2014-01-08",
         "year": "2014",
         "rating": 8.4,
-        "votes": 2640,
+        "votes": 2641,
         "popularity": 173.841,
         "genreIds": [
           80,
@@ -3351,24 +3357,6 @@
         "lang": "ja"
       },
       {
-        "id": 207840,
-        "type": "tv",
-        "title": "Harem Camp!",
-        "originalTitle": "\u30cf\u30fc\u30ec\u30e0\u304d\u3083\u3093\u3077\u3063\uff01",
-        "overview": "The story follows teacher and veteran solo camper Kensuke, who forms a camping group with four girls.",
-        "poster": "/dsaYRfBviInhrulwtHOyg1KB4ct.jpg",
-        "backdrop": "/xIioKjaioyNLW38OMugFmn15DI6.jpg",
-        "date": "2022-10-03",
-        "year": "2022",
-        "rating": 7.1,
-        "votes": 26,
-        "popularity": 164.8026,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 57775,
         "type": "tv",
         "title": "Chibi Maruko-chan",
@@ -3384,44 +3372,6 @@
         "genreIds": [
           16,
           35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 204269,
-        "type": "tv",
-        "title": "Caressing My Hibernating Bear",
-        "originalTitle": "\u68ee\u306e\u304f\u307e\u3055\u3093\u3001\u51ac\u7720\u4e2d\u3002",
-        "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
-        "poster": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "backdrop": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
-        "date": "2022-07-04",
-        "year": "2022",
-        "rating": 5.9,
-        "votes": 7,
-        "popularity": 145.1093,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 94664,
-        "type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "originalTitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
-        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "date": "2021-01-11",
-        "year": "2021",
-        "rating": 8.4,
-        "votes": 1769,
-        "popularity": 161.69,
-        "genreIds": [
-          10759,
-          16,
-          10765
         ],
         "lang": "ja"
       },
@@ -3442,6 +3392,24 @@
           16,
           10759,
           10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 207840,
+        "type": "tv",
+        "title": "Harem Camp!",
+        "originalTitle": "\u30cf\u30fc\u30ec\u30e0\u304d\u3083\u3093\u3077\u3063\uff01",
+        "overview": "The story follows teacher and veteran solo camper Kensuke, who forms a camping group with four girls.",
+        "poster": "/dsaYRfBviInhrulwtHOyg1KB4ct.jpg",
+        "backdrop": "/xIioKjaioyNLW38OMugFmn15DI6.jpg",
+        "date": "2022-10-03",
+        "year": "2022",
+        "rating": 7.1,
+        "votes": 26,
+        "popularity": 164.8026,
+        "genreIds": [
+          16
         ],
         "lang": "ja"
       },
@@ -3488,18 +3456,38 @@
         "lang": "ja"
       },
       {
-        "id": 95897,
+        "id": 94664,
         "type": "tv",
-        "title": "Overflow",
-        "originalTitle": "\u304a\u30fc\u3070\u30fc\u3075\u308d\u3049",
-        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
-        "poster": "/AaWnto23ZT8gTm6dd8I2j5sLZMz.jpg",
-        "backdrop": "/bzlZwirOq5SDC0bCWAXGBx4XDg9.jpg",
-        "date": "2020-01-06",
-        "year": "2020",
-        "rating": 7.5,
-        "votes": 99,
-        "popularity": 132.1981,
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1769,
+        "popularity": 161.69,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 204269,
+        "type": "tv",
+        "title": "Caressing My Hibernating Bear",
+        "originalTitle": "\u68ee\u306e\u304f\u307e\u3055\u3093\u3001\u51ac\u7720\u4e2d\u3002",
+        "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
+        "poster": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "backdrop": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
+        "date": "2022-07-04",
+        "year": "2022",
+        "rating": 5.9,
+        "votes": 7,
+        "popularity": 145.1093,
         "genreIds": [
           16
         ],
@@ -3537,12 +3525,30 @@
         "date": "1997-04-01",
         "year": "1997",
         "rating": 8,
-        "votes": 2276,
+        "votes": 2277,
         "popularity": 133.8736,
         "genreIds": [
           16,
           10759,
           10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 95897,
+        "type": "tv",
+        "title": "Overflow",
+        "originalTitle": "\u304a\u30fc\u3070\u30fc\u3075\u308d\u3049",
+        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+        "poster": "/AaWnto23ZT8gTm6dd8I2j5sLZMz.jpg",
+        "backdrop": "/bzlZwirOq5SDC0bCWAXGBx4XDg9.jpg",
+        "date": "2020-01-06",
+        "year": "2020",
+        "rating": 7.5,
+        "votes": 99,
+        "popularity": 132.1981,
+        "genreIds": [
+          16
         ],
         "lang": "ja"
       },
@@ -3567,6 +3573,129 @@
         "lang": "ja"
       },
       {
+        "id": 9537,
+        "type": "tv",
+        "title": "Atashin'chi",
+        "originalTitle": "\u3042\u305f\u3057\u30f3\u3061",
+        "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+        "poster": "/bQCZvbyTJFWt3majCn37ykJBpIf.jpg",
+        "backdrop": "/j6jHIjnyCT5YwxEKu7c8e7DS57V.jpg",
+        "date": "2002-04-19",
+        "year": "2002",
+        "rating": 8.4,
+        "votes": 15,
+        "popularity": 113.5748,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 30983,
+        "type": "tv",
+        "title": "Detective Conan",
+        "originalTitle": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3",
+        "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+        "poster": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
+        "backdrop": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+        "date": "1996-01-08",
+        "year": "1996",
+        "rating": 8,
+        "votes": 793,
+        "popularity": 113.0807,
+        "genreIds": [
+          16,
+          80,
+          9648,
+          35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 12971,
+        "type": "tv",
+        "title": "Dragon Ball Z",
+        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8",
+        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+        "date": "1989-04-26",
+        "year": "1989",
+        "rating": 8.4,
+        "votes": 5029,
+        "popularity": 111.4461,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 220542,
+        "type": "tv",
+        "title": "The Apothecary Diaries",
+        "originalTitle": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "poster": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+        "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "date": "2023-10-22",
+        "year": "2023",
+        "rating": 8.7,
+        "votes": 661,
+        "popularity": 111.2555,
+        "genreIds": [
+          16,
+          18,
+          9648
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 95479,
+        "type": "tv",
+        "title": "JUJUTSU KAISEN",
+        "originalTitle": "\u546a\u8853\u5efb\u6226",
+        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+        "poster": "/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
+        "backdrop": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+        "date": "2020-10-03",
+        "year": "2020",
+        "rating": 8.6,
+        "votes": 4684,
+        "popularity": 110.6934,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 57911,
+        "type": "tv",
+        "title": "Doraemon",
+        "originalTitle": "\u30c9\u30e9\u3048\u3082\u3093",
+        "overview": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is the much more successful successor of the 1973 anime.",
+        "poster": "/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "backdrop": "/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
+        "date": "1979-04-02",
+        "year": "1979",
+        "rating": 7.7,
+        "votes": 619,
+        "popularity": 109.7117,
+        "genreIds": [
+          10759,
+          16,
+          35,
+          10765,
+          10762,
+          10751
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 259140,
         "type": "tv",
         "title": "Ranma1/2",
@@ -3584,122 +3713,6 @@
           10759,
           35,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 30983,
-        "type": "tv",
-        "title": "Detective Conan",
-        "originalTitle": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3",
-        "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-        "poster": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
-        "backdrop": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-        "date": "1996-01-08",
-        "year": "1996",
-        "rating": 8,
-        "votes": 792,
-        "popularity": 113.0807,
-        "genreIds": [
-          16,
-          80,
-          9648,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 78501,
-        "type": "tv",
-        "title": "Sweet Punishment: I'm the Guard's Personal Pet",
-        "originalTitle": "\u7518\u3044\u61f2\u7f70\uff5e\u79c1\u306f\u770b\u5b88\u5c02\u7528\u30da\u30c3\u30c8",
-        "overview": "The story is set in a prison in the near future. It revolves around Hina Saotome, imprisoned despite her innocence, and the elegant yet sadistic guard Aki Myoujin. Hina's heart and body are at the mercy of Myoujin's \"heartless yet sweet domination\" from physical examinations to lovers' prison visits.",
-        "poster": "/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
-        "backdrop": "/5Akyn19AM9flDDUN7pMUdzA9dWD.jpg",
-        "date": "2018-04-02",
-        "year": "2018",
-        "rating": 7.7,
-        "votes": 17,
-        "popularity": 102.2826,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 241002,
-        "type": "tv",
-        "title": "Adam's Sweet Agony",
-        "originalTitle": "\u60b6\u3048\u3066\u3088\u3001\u30a2\u30c0\u30e0\u304f\u3093",
-        "overview": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered all men impotent, high school student Itsuki is the exception who escaped it. In order to protect this secret, he transfers to a very special high school, which turns out to be composed of 90% girls! There, he encounters an upbeat and friendly senior, a sexually frustrated female teacher, a tomboyish school 'prince,' and an heiress from a wealthy family. For Itsuki, who has his pick of any woman in the world, the question remains: which one will he choose?",
-        "poster": "/hQV6j1o6MXZgvPQ2gCNzItGYKe7.jpg",
-        "backdrop": "/bM4nCynOSA5oCNqLsqb1Fo56sZQ.jpg",
-        "date": "2024-01-08",
-        "year": "2024",
-        "rating": 6.9,
-        "votes": 39,
-        "popularity": 97.8726,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 95479,
-        "type": "tv",
-        "title": "JUJUTSU KAISEN",
-        "originalTitle": "\u546a\u8853\u5efb\u6226",
-        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-        "poster": "/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
-        "backdrop": "/j2GvamiUMRpPjmNQSSht0Q7Z7e9.jpg",
-        "date": "2020-10-03",
-        "year": "2020",
-        "rating": 8.6,
-        "votes": 4683,
-        "popularity": 110.6934,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 12971,
-        "type": "tv",
-        "title": "Dragon Ball Z",
-        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8",
-        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
-        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
-        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
-        "date": "1989-04-26",
-        "year": "1989",
-        "rating": 8.4,
-        "votes": 5028,
-        "popularity": 111.4461,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 9537,
-        "type": "tv",
-        "title": "Atashin'chi",
-        "originalTitle": "\u3042\u305f\u3057\u30f3\u3061",
-        "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
-        "poster": "/bQCZvbyTJFWt3majCn37ykJBpIf.jpg",
-        "backdrop": "/j6jHIjnyCT5YwxEKu7c8e7DS57V.jpg",
-        "date": "2002-04-19",
-        "year": "2002",
-        "rating": 8.4,
-        "votes": 15,
-        "popularity": 113.5748,
-        "genreIds": [
-          16,
-          35
         ],
         "lang": "ja"
       }

@@ -46,27 +46,6 @@
         "iframe": "https://peachify.top/embed/tv/123542?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1400940,
-        "type": "movie",
-        "title": "Clayface",
-        "originalTitle": "Clayface",
-        "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-        "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-        "backdrop": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "date": "2026-10-19",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 121,
-        "popularity": 240.8093,
-        "genreIds": [
-          27,
-          53,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1400940?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 96677,
         "type": "tv",
         "title": "Lupin",
@@ -77,7 +56,7 @@
         "date": "2021-01-08",
         "year": "2021",
         "rating": 7.7,
-        "votes": 2706,
+        "votes": 2709,
         "popularity": 124.0241,
         "genreIds": [
           80,
@@ -88,13 +67,54 @@
         "iframe": "https://peachify.top/embed/tv/96677?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1400940,
+        "type": "movie",
+        "title": "Clayface",
+        "originalTitle": "Clayface",
+        "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+        "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+        "backdrop": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "date": "2026-10-19",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 126,
+        "popularity": 240.8093,
+        "genreIds": [
+          27,
+          53,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1400940?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 120911,
+        "type": "tv",
+        "title": "The Terminal List",
+        "originalTitle": "The Terminal List",
+        "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+        "poster": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+        "backdrop": "/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+        "date": "2022-06-30",
+        "year": "2022",
+        "rating": 8,
+        "votes": 1266,
+        "popularity": 157.4266,
+        "genreIds": [
+          10759,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/120911?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 105248,
         "type": "tv",
         "title": "Cyberpunk: Edgerunners",
         "originalTitle": "Cyberpunk: Edgerunners",
         "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
         "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-        "backdrop": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+        "backdrop": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
         "date": "2022-09-13",
         "year": "2022",
         "rating": 8.5,
@@ -110,26 +130,6 @@
         "iframe": "https://peachify.top/embed/tv/105248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 120911,
-        "type": "tv",
-        "title": "The Terminal List",
-        "originalTitle": "The Terminal List",
-        "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-        "poster": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-        "backdrop": "/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-        "date": "2022-06-30",
-        "year": "2022",
-        "rating": 8,
-        "votes": 1265,
-        "popularity": 157.4266,
-        "genreIds": [
-          10759,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/120911?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -140,7 +140,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.5,
-        "votes": 6032,
+        "votes": 6046,
         "popularity": 1138.6936,
         "genreIds": [
           878,
@@ -161,7 +161,7 @@
         "date": "2026-10-16",
         "year": "2026",
         "rating": 7,
-        "votes": 150,
+        "votes": 151,
         "popularity": 209.1518,
         "genreIds": [
           28,
@@ -183,7 +183,7 @@
         "date": "2021-01-08",
         "year": "2021",
         "rating": 7.7,
-        "votes": 2706,
+        "votes": 2709,
         "popularity": 124.0241,
         "genreIds": [
           80,
@@ -204,7 +204,7 @@
         "date": "2026-10-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 121,
+        "votes": 127,
         "popularity": 240.8093,
         "genreIds": [
           27,
@@ -224,14 +224,55 @@
         "backdrop": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
         "date": "2026-10-23",
         "year": "2026",
-        "rating": 4.8,
-        "votes": 7,
+        "rating": 5.5,
+        "votes": 12,
         "popularity": 38.7524,
         "genreIds": [
           18
         ],
         "lang": "es",
         "iframe": "https://peachify.top/embed/movie/1780005?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1290418,
+        "type": "movie",
+        "title": "The Cycle",
+        "originalTitle": "The Cycle",
+        "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+        "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+        "backdrop": "/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+        "date": "2026-09-24",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 8,
+        "popularity": 13.064,
+        "genreIds": [
+          80,
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1290418?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1422041,
+        "type": "movie",
+        "title": "La bola negra",
+        "originalTitle": "La bola negra",
+        "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+        "poster": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+        "backdrop": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "date": "2026-09-25",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 109,
+        "popularity": 51.8507,
+        "genreIds": [
+          18,
+          10752
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1422041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 314360,
@@ -260,11 +301,11 @@
         "originalTitle": "\u0917\u093c\u091c\u093c\u092c \u0930\u093e\u0924",
         "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
         "poster": "/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
-        "backdrop": "/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+        "backdrop": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
         "date": "2026-10-23",
         "year": "2026",
-        "rating": 0.5,
-        "votes": 1,
+        "rating": 4.5,
+        "votes": 3,
         "popularity": 24.265,
         "genreIds": [
           53,
@@ -272,46 +313,6 @@
         ],
         "lang": "hi",
         "iframe": "https://peachify.top/embed/movie/1453407?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1422041,
-        "type": "movie",
-        "title": "La bola negra",
-        "originalTitle": "La bola negra",
-        "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-        "poster": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-        "backdrop": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-        "date": "2026-09-25",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 103,
-        "popularity": 51.8507,
-        "genreIds": [
-          18,
-          10752
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1422041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 120911,
-        "type": "tv",
-        "title": "The Terminal List",
-        "originalTitle": "The Terminal List",
-        "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-        "poster": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-        "backdrop": "/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-        "date": "2022-06-30",
-        "year": "2022",
-        "rating": 8,
-        "votes": 1265,
-        "popularity": 157.4266,
-        "genreIds": [
-          10759,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/120911?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -324,7 +325,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.5,
-        "votes": 6032,
+        "votes": 6051,
         "popularity": 1138.6936,
         "genreIds": [
           878,
@@ -335,17 +336,78 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 120911,
+        "type": "tv",
+        "title": "The Terminal List",
+        "originalTitle": "The Terminal List",
+        "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+        "poster": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+        "backdrop": "/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+        "date": "2022-06-30",
+        "year": "2022",
+        "rating": 8,
+        "votes": 1266,
+        "popularity": 157.4266,
+        "genreIds": [
+          10759,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/120911?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 791523,
+        "type": "movie",
+        "title": "Wildwood",
+        "originalTitle": "Wildwood",
+        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+        "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "backdrop": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "date": "2026-10-19",
+        "year": "2026",
+        "rating": 8.6,
+        "votes": 29,
+        "popularity": 75.5267,
+        "genreIds": [
+          16,
+          12,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/791523?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1567937,
+        "type": "movie",
+        "title": "V",
+        "originalTitle": "\u7a7a\u67aa",
+        "overview": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
+        "poster": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+        "backdrop": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 9,
+        "popularity": 12.9921,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "zh",
+        "iframe": "https://peachify.top/embed/movie/1567937?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 105248,
         "type": "tv",
         "title": "Cyberpunk: Edgerunners",
         "originalTitle": "Cyberpunk: Edgerunners",
         "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw \u2014 an edgerunner.",
         "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-        "backdrop": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+        "backdrop": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
         "date": "2022-09-13",
         "year": "2022",
         "rating": 8.5,
-        "votes": 2079,
+        "votes": 2080,
         "popularity": 170.2525,
         "genreIds": [
           16,
@@ -355,6 +417,47 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/105248?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.3,
+        "votes": 1717,
+        "popularity": 141.3329,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1058424,
+        "type": "movie",
+        "title": "Hope",
+        "originalTitle": "\ud638\ud504",
+        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+        "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+        "backdrop": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 321,
+        "popularity": 478.334,
+        "genreIds": [
+          878,
+          9648,
+          28
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247718,
@@ -375,69 +478,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1290418,
-        "type": "movie",
-        "title": "The Cycle",
-        "originalTitle": "The Cycle",
-        "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-        "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-        "backdrop": "/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
-        "date": "2026-09-24",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 6,
-        "popularity": 13.064,
-        "genreIds": [
-          80,
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1290418?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1058424,
-        "type": "movie",
-        "title": "Hope",
-        "originalTitle": "\ud638\ud504",
-        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-        "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "backdrop": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 316,
-        "popularity": 478.334,
-        "genreIds": [
-          878,
-          9648,
-          28
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1477104,
-        "type": "movie",
-        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-        "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-        "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-        "poster": "/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-        "backdrop": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-        "date": "2026-09-17",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 31,
-        "popularity": 27.8759,
-        "genreIds": [
-          16,
-          878,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1477104?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1003596,
@@ -461,124 +501,84 @@
         "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 286171,
-        "type": "tv",
-        "title": "Tigers Sniff the Rose",
-        "originalTitle": "\u5c1a\u516c\u4e3b",
-        "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
-        "poster": "/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
-        "backdrop": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
-        "date": "2026-10-23",
+        "id": 1477104,
+        "type": "movie",
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+        "poster": "/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+        "backdrop": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+        "date": "2026-09-17",
         "year": "2026",
-        "rating": 8,
-        "votes": 1,
-        "popularity": 14.199,
+        "rating": 7.4,
+        "votes": 31,
+        "popularity": 27.8759,
         "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/286171?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 335535,
-        "type": "tv",
-        "title": "Fading Grandeur",
-        "originalTitle": "Grande de Espa\u00f1a",
-        "overview": "Desperate to sell his crumbling mansion, a fallen marquis tries to make a quick deal with a charming yet mysterious millionaire who has her own agenda.",
-        "poster": "/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
-        "backdrop": "/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-        "date": "2026-10-23",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 16.1184,
-        "genreIds": [
-          35,
-          18
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/335535?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 153312,
-        "type": "tv",
-        "title": "Tulsa King",
-        "originalTitle": "Tulsa King",
-        "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-        "poster": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-        "backdrop": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-        "date": "2022-11-13",
-        "year": "2022",
-        "rating": 8.3,
-        "votes": 2857,
-        "popularity": 259.6778,
-        "genreIds": [
-          80,
-          18,
+          16,
+          878,
           35
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/153312?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1477104?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1567937,
-        "type": "movie",
-        "title": "V",
-        "originalTitle": "\u7a7a\u67aa",
-        "overview": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
-        "poster": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-        "backdrop": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
-        "date": "2026-08-19",
+        "id": 213562,
+        "type": "tv",
+        "title": "Crystal Lake",
+        "originalTitle": "Crystal Lake",
+        "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+        "poster": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+        "backdrop": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+        "date": "2026-10-15",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 9,
-        "popularity": 12.9921,
+        "rating": 8.6,
+        "votes": 235,
+        "popularity": 209.6689,
         "genreIds": [
           18,
-          80
+          9648
         ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/movie/1567937?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/213562?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 196322,
+        "id": 213375,
         "type": "tv",
-        "title": "Dark Matter",
-        "originalTitle": "Dark Matter",
-        "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-        "poster": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-        "backdrop": "/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-        "date": "2024-05-07",
-        "year": "2024",
-        "rating": 7.8,
-        "votes": 845,
-        "popularity": 89.4586,
+        "title": "VisionQuest",
+        "originalTitle": "VisionQuest",
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+        "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+        "date": "2026-10-13",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 171,
+        "popularity": 342.2431,
         "genreIds": [
           10765,
           18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/196322?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1371730,
-        "type": "movie",
-        "title": "Love Language",
-        "originalTitle": "Love Language",
-        "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people\u2019s wedding vows. Word spreads across Chicago\u2019s wedding scene and Lou\u2019s services are in high demand. She even has a new admirer in Dash. But everything changes when she\u2019s asked to write vows for Olivia, who\u2019s marrying Warren, Lou\u2019s old college flame.",
-        "poster": "/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
-        "backdrop": "/2reWDfgqvrUmA05y6UCKb2UXNvP.jpg",
-        "date": "2026-10-23",
+        "id": 316702,
+        "type": "tv",
+        "title": "Final Table",
+        "originalTitle": "\ud30c\uc774\ub110 \ud14c\uc774\ube14",
+        "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+        "poster": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+        "backdrop": "/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+        "date": "2026-10-24",
         "year": "2026",
-        "rating": 10,
-        "votes": 1,
-        "popularity": 7.7879,
+        "rating": null,
+        "votes": 0,
+        "popularity": 6.9202,
         "genreIds": [
-          10749,
-          35
+          18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1371730?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/316702?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1060,7 +1060,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2330,
+        "votes": 2332,
         "popularity": 47.7303,
         "genreIds": [
           16,
@@ -1100,7 +1100,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31658,
+        "votes": 31661,
         "popularity": 54.7936,
         "genreIds": [
           18,
@@ -1138,7 +1138,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 8472,
+        "votes": 8480,
         "popularity": 923.0057,
         "genreIds": [
           878,
@@ -1195,7 +1195,7 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10515,
+        "votes": 10516,
         "popularity": 30.7287,
         "genreIds": [
           18
@@ -1232,7 +1232,7 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 18090,
+        "votes": 18091,
         "popularity": 42.6992,
         "genreIds": [
           18,
@@ -1272,7 +1272,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1253,
+        "votes": 1254,
         "popularity": 32.7692,
         "genreIds": [
           16,
@@ -1293,7 +1293,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 37061,
+        "votes": 37064,
         "popularity": 55.7367,
         "genreIds": [
           28,
@@ -1313,7 +1313,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 19102,
+        "votes": 19104,
         "popularity": 47.8657,
         "genreIds": [
           16,
@@ -1333,7 +1333,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 20025,
+        "votes": 20028,
         "popularity": 35.1909,
         "genreIds": [
           14,
@@ -1353,7 +1353,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27656,
+        "votes": 27659,
         "popularity": 48.3145,
         "genreIds": [
           12,
@@ -2147,7 +2147,7 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11094,
+        "votes": 11095,
         "popularity": 9717.4016,
         "genreIds": [
           18
@@ -2165,7 +2165,7 @@
         "date": "2011-09-22",
         "year": "2011",
         "rating": 8.1,
-        "votes": 2201,
+        "votes": 2202,
         "popularity": 5730.6245,
         "genreIds": [
           10759,
@@ -2190,6 +2190,26 @@
         "genreIds": [
           35,
           10765
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1426,
+        "type": "tv",
+        "title": "Luther",
+        "originalTitle": "Luther",
+        "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+        "poster": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+        "backdrop": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+        "date": "2010-05-04",
+        "year": "2010",
+        "rating": 7.9,
+        "votes": 1270,
+        "popularity": 2360.6517,
+        "genreIds": [
+          80,
+          18,
+          9648
         ],
         "lang": "en"
       },
@@ -2225,7 +2245,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18924,
+        "votes": 18933,
         "popularity": 1586.4702,
         "genreIds": [
           18,
@@ -2234,22 +2254,21 @@
         "lang": "en"
       },
       {
-        "id": 1426,
+        "id": 1480,
         "type": "tv",
-        "title": "Luther",
-        "originalTitle": "Luther",
-        "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
-        "poster": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-        "backdrop": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-        "date": "2010-05-04",
-        "year": "2010",
-        "rating": 7.9,
-        "votes": 1270,
-        "popularity": 2360.6517,
+        "title": "Ally McBeal",
+        "originalTitle": "Ally McBeal",
+        "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+        "poster": "/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+        "backdrop": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+        "date": "1997-09-08",
+        "year": "1997",
+        "rating": 6.5,
+        "votes": 390,
+        "popularity": 1384.9736,
         "genreIds": [
-          80,
           18,
-          9648
+          35
         ],
         "lang": "en"
       },
@@ -2292,23 +2311,23 @@
         "lang": "en"
       },
       {
-        "id": 1480,
+        "id": 70528,
         "type": "tv",
-        "title": "Ally McBeal",
-        "originalTitle": "Ally McBeal",
-        "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
-        "poster": "/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
-        "backdrop": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
-        "date": "1997-09-08",
-        "year": "1997",
-        "rating": 6.5,
-        "votes": 390,
-        "popularity": 1384.9736,
+        "title": "Chicago Typewriter",
+        "originalTitle": "\uc2dc\uce74\uace0 \ud0c0\uc790\uae30",
+        "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
+        "poster": "/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
+        "backdrop": "/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
+        "date": "2017-04-07",
+        "year": "2017",
+        "rating": 7.9,
+        "votes": 49,
+        "popularity": 1019.3386,
         "genreIds": [
-          18,
-          35
+          10765,
+          18
         ],
-        "lang": "en"
+        "lang": "ko"
       },
       {
         "id": 136315,
@@ -2321,7 +2340,7 @@
         "date": "2022-06-23",
         "year": "2022",
         "rating": 8.2,
-        "votes": 1997,
+        "votes": 2000,
         "popularity": 905.985,
         "genreIds": [
           18,
@@ -2350,22 +2369,6 @@
         "lang": "cn"
       },
       {
-        "id": 15325,
-        "type": "tv",
-        "title": "Dagsrevyen",
-        "originalTitle": "Dagsrevyen",
-        "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed L\u00f8rdagsrevyen and S\u00f8ndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bj\u00f8nteg\u00e5rd.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og N\u00e5. NRK also broadcasts daily newscasts from most regional offices.",
-        "poster": "/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
-        "backdrop": "/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
-        "date": "1958-12-02",
-        "year": "1958",
-        "rating": 8,
-        "votes": 2,
-        "popularity": 506.8129,
-        "genreIds": [],
-        "lang": "no"
-      },
-      {
         "id": 22980,
         "type": "tv",
         "title": "Watch What Happens Live with Andy Cohen",
@@ -2385,20 +2388,36 @@
         "lang": "en"
       },
       {
-        "id": 70528,
+        "id": 15325,
         "type": "tv",
-        "title": "Chicago Typewriter",
-        "originalTitle": "\uc2dc\uce74\uace0 \ud0c0\uc790\uae30",
-        "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
-        "poster": "/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
-        "backdrop": "/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
-        "date": "2017-04-07",
-        "year": "2017",
+        "title": "Dagsrevyen",
+        "originalTitle": "Dagsrevyen",
+        "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed L\u00f8rdagsrevyen and S\u00f8ndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bj\u00f8nteg\u00e5rd.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og N\u00e5. NRK also broadcasts daily newscasts from most regional offices.",
+        "poster": "/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
+        "backdrop": "/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
+        "date": "1958-12-02",
+        "year": "1958",
         "rating": 8,
-        "votes": 48,
-        "popularity": 1019.3386,
+        "votes": 2,
+        "popularity": 506.8129,
+        "genreIds": [],
+        "lang": "no"
+      },
+      {
+        "id": 62933,
+        "type": "tv",
+        "title": "Hello Monster",
+        "originalTitle": "\ub108\ub97c \uae30\uc5b5\ud574",
+        "overview": "A top detective is reunited with a childhood friend who has since become a leading criminal profiler. Can they join forces to stop a serial killer?",
+        "poster": "/t1f0EKjQGCd5ip8TLJzDFOEDDdK.jpg",
+        "backdrop": "/2RyoO9g8UskEfl2J27Am7l8Nnjx.jpg",
+        "date": "2015-06-22",
+        "year": "2015",
+        "rating": 7.3,
+        "votes": 130,
+        "popularity": 463.346,
         "genreIds": [
-          10765,
+          9648,
           18
         ],
         "lang": "ko"
@@ -2480,41 +2499,27 @@
         "lang": "en"
       },
       {
-        "id": 94722,
+        "id": 65733,
         "type": "tv",
-        "title": "Tagesschau",
-        "originalTitle": "Tagesschau",
-        "overview": "German daily news program, the oldest still existing program on German television.",
-        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-        "date": "1952-12-26",
-        "year": "1952",
-        "rating": 6.8,
-        "votes": 256,
-        "popularity": 346.9982,
+        "title": "Doraemon",
+        "originalTitle": "\u30c9\u30e9\u3048\u3082\u3093",
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "poster": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "backdrop": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+        "date": "2005-04-22",
+        "year": "2005",
+        "rating": 8.1,
+        "votes": 254,
+        "popularity": 366.3917,
         "genreIds": [
-          10763
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 213375,
-        "type": "tv",
-        "title": "VisionQuest",
-        "originalTitle": "VisionQuest",
-        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-        "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-        "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "date": "2026-10-13",
-        "year": "2026",
-        "rating": 8.8,
-        "votes": 168,
-        "popularity": 342.2431,
-        "genreIds": [
+          10759,
+          16,
+          35,
           10765,
-          18
+          10762,
+          10751
         ],
-        "lang": "en"
+        "lang": "ja"
       }
     ],
     "topTv": [
@@ -2549,7 +2554,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 994,
+        "votes": 995,
         "popularity": 52.1804,
         "genreIds": [
           10759,
@@ -2628,7 +2633,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18925,
+        "votes": 18933,
         "popularity": 1586.4702,
         "genreIds": [
           18,
@@ -2704,7 +2709,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 1003,
+        "votes": 1004,
         "popularity": 93.7967,
         "genreIds": [
           16,
@@ -2882,7 +2887,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6259,
+        "votes": 6261,
         "popularity": 70.3004,
         "genreIds": [
           16,

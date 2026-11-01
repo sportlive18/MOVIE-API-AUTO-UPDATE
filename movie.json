@@ -13,7 +13,7 @@
         "date": "2026-09-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 456,
+        "votes": 473,
         "popularity": 218.6788,
         "genreIds": [
           9648,
@@ -33,7 +33,7 @@
         "date": "2026-08-26",
         "year": "2026",
         "rating": 7.1,
-        "votes": 717,
+        "votes": 730,
         "popularity": 188.8553,
         "genreIds": [
           28,
@@ -75,7 +75,7 @@
         "date": "2026-10-19",
         "year": "2026",
         "rating": 7.4,
-        "votes": 319,
+        "votes": 321,
         "popularity": 171.9067,
         "genreIds": [
           27,
@@ -95,8 +95,8 @@
         "backdrop": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
         "date": "2026-10-09",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 47,
+        "rating": 6,
+        "votes": 52,
         "popularity": 227.9966,
         "genreIds": [
           28,
@@ -105,25 +105,6 @@
         ],
         "lang": "es",
         "iframe": "https://peachify.top/embed/movie/1507696?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 289517,
-        "type": "tv",
-        "title": "Dead-End Job",
-        "originalTitle": "\uafc0\uc54c\ubc14",
-        "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
-        "poster": "/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-        "backdrop": "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
-        "date": "2026-10-30",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 19,
-        "popularity": 121.3616,
-        "genreIds": [
-          9648
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/289517?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1465063,
@@ -136,7 +117,7 @@
         "date": "2026-09-10",
         "year": "2026",
         "rating": 7.8,
-        "votes": 172,
+        "votes": 174,
         "popularity": 122.3666,
         "genreIds": [
           16,
@@ -149,6 +130,25 @@
         "iframe": "https://peachify.top/embed/movie/1465063?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 289517,
+        "type": "tv",
+        "title": "Dead-End Job",
+        "originalTitle": "\uafc0\uc54c\ubc14",
+        "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
+        "poster": "/3fm3WYMftVrcFPdGXds9DCFVCCs.jpg",
+        "backdrop": "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+        "date": "2026-10-30",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 21,
+        "popularity": 121.3616,
+        "genreIds": [
+          9648
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/289517?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 259909,
         "type": "tv",
         "title": "Dexter: Resurrection",
@@ -159,7 +159,7 @@
         "date": "2025-07-13",
         "year": "2025",
         "rating": 8.5,
-        "votes": 719,
+        "votes": 720,
         "popularity": 121.8692,
         "genreIds": [
           80,
@@ -181,8 +181,8 @@
         "backdrop": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
         "date": "2026-10-31",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 16,
+        "rating": 6.4,
+        "votes": 20,
         "popularity": 62.3958,
         "genreIds": [
           18,
@@ -193,25 +193,24 @@
         "iframe": "https://peachify.top/embed/movie/1813355?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1507696,
-        "type": "movie",
-        "title": "Apocalypse Z: New World",
-        "originalTitle": "Apocalipsis Z: Nuevo mundo",
-        "overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-        "poster": "/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
-        "backdrop": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-        "date": "2026-10-09",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 47,
-        "popularity": 227.9966,
+        "id": 200875,
+        "type": "tv",
+        "title": "IT: Welcome to Derry",
+        "originalTitle": "IT: Welcome to Derry",
+        "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace \u2013 all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+        "poster": "/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "backdrop": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+        "date": "2025-10-26",
+        "year": "2025",
+        "rating": 8.3,
+        "votes": 1761,
+        "popularity": 100.5838,
         "genreIds": [
-          28,
-          53,
-          27
+          18,
+          9648
         ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1507696?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/200875?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1571955,
@@ -224,7 +223,7 @@
         "date": "2026-10-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 19,
+        "votes": 26,
         "popularity": 125.8848,
         "genreIds": [
           18,
@@ -240,12 +239,12 @@
         "title": "Dead-End Job",
         "originalTitle": "\uafc0\uc54c\ubc14",
         "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
-        "poster": "/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+        "poster": "/3fm3WYMftVrcFPdGXds9DCFVCCs.jpg",
         "backdrop": "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
         "date": "2026-10-30",
         "year": "2026",
-        "rating": 7.7,
-        "votes": 19,
+        "rating": 7.8,
+        "votes": 20,
         "popularity": 121.3616,
         "genreIds": [
           9648
@@ -254,24 +253,46 @@
         "iframe": "https://peachify.top/embed/tv/289517?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 200875,
-        "type": "tv",
-        "title": "IT: Welcome to Derry",
-        "originalTitle": "IT: Welcome to Derry",
-        "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace \u2013 all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-        "poster": "/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-        "backdrop": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
-        "date": "2025-10-26",
-        "year": "2025",
-        "rating": 8.2,
-        "votes": 1760,
-        "popularity": 100.5838,
+        "id": 1507696,
+        "type": "movie",
+        "title": "Apocalypse Z: New World",
+        "originalTitle": "Apocalipsis Z: Nuevo mundo",
+        "overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+        "poster": "/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
+        "backdrop": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+        "date": "2026-10-09",
+        "year": "2026",
+        "rating": 6,
+        "votes": 52,
+        "popularity": 227.9966,
         "genreIds": [
-          18,
-          9648
+          28,
+          53,
+          27
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1507696?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1384216,
+        "type": "movie",
+        "title": "The Dog Stars",
+        "originalTitle": "The Dog Stars",
+        "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+        "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+        "backdrop": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+        "date": "2026-08-26",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 727,
+        "popularity": 188.8553,
+        "genreIds": [
+          28,
+          53,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/200875?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1384216?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 259909,
@@ -284,7 +305,7 @@
         "date": "2025-07-13",
         "year": "2025",
         "rating": 8.5,
-        "votes": 719,
+        "votes": 720,
         "popularity": 121.8692,
         "genreIds": [
           80,
@@ -305,7 +326,7 @@
         "date": "2026-09-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 455,
+        "votes": 471,
         "popularity": 218.6788,
         "genreIds": [
           9648,
@@ -313,6 +334,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1283515?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 196322,
+        "type": "tv",
+        "title": "Dark Matter",
+        "originalTitle": "Dark Matter",
+        "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+        "poster": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+        "backdrop": "/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+        "date": "2024-05-07",
+        "year": "2024",
+        "rating": 7.8,
+        "votes": 859,
+        "popularity": 79.7073,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/196322?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1400940,
@@ -324,8 +365,8 @@
         "backdrop": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "date": "2026-10-19",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 318,
+        "rating": 7.4,
+        "votes": 319,
         "popularity": 171.9067,
         "genreIds": [
           27,
@@ -334,27 +375,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1400940?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1384216,
-        "type": "movie",
-        "title": "The Dog Stars",
-        "originalTitle": "The Dog Stars",
-        "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-        "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-        "backdrop": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-        "date": "2026-08-26",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 716,
-        "popularity": 188.8553,
-        "genreIds": [
-          28,
-          53,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1384216?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 96677,
@@ -378,23 +398,46 @@
         "iframe": "https://peachify.top/embed/tv/96677?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1789549,
-        "type": "movie",
-        "title": "The Birthday\u200b Gift\u200b",
-        "originalTitle": "Das Geschenk",
-        "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-        "poster": "/jqGFILLsEDwsLteNDQextojsYFV.jpg",
-        "backdrop": "/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
-        "date": "2026-10-30",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 6,
-        "popularity": 47.0675,
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2329,
+        "popularity": 163.5789,
         "genreIds": [
-          35
+          10759,
+          16,
+          10765
         ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1789549?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1381071,
+        "type": "movie",
+        "title": "Godzilla Minus Zero",
+        "originalTitle": "\u30b4\u30b8\u30e9-0.0",
+        "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "backdrop": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+        "date": "2026-11-03",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 22.5256,
+        "genreIds": [
+          878,
+          27,
+          28
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/movie/1381071?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 292741,
@@ -406,8 +449,8 @@
         "backdrop": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
         "date": "2026-10-29",
         "year": "2026",
-        "rating": 7.3,
-        "votes": 23,
+        "rating": 7.4,
+        "votes": 25,
         "popularity": 96.7551,
         "genreIds": [
           80,
@@ -418,68 +461,23 @@
         "iframe": "https://peachify.top/embed/tv/292741?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1465063,
+        "id": 1789549,
         "type": "movie",
-        "title": "Forgotten Island",
-        "originalTitle": "Forgotten Island",
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "backdrop": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "date": "2026-09-10",
+        "title": "The Birthday\u200b Gift\u200b",
+        "originalTitle": "Das Geschenk",
+        "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+        "poster": "/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+        "backdrop": "/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+        "date": "2026-10-30",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 172,
-        "popularity": 122.3666,
+        "rating": 7.1,
+        "votes": 7,
+        "popularity": 47.0675,
         "genreIds": [
-          16,
-          12,
-          14,
-          35,
-          10751
+          35
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1465063?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1058424,
-        "type": "movie",
-        "title": "Hope",
-        "originalTitle": "\ud638\ud504",
-        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-        "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "backdrop": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 420,
-        "popularity": 451.9154,
-        "genreIds": [
-          878,
-          9648,
-          28
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 6452,
-        "popularity": 113.449,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1789549?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 307478,
@@ -503,66 +501,6 @@
         "iframe": "https://peachify.top/embed/tv/307478?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1727734,
-        "type": "movie",
-        "title": "Ali G: Who Iz I?",
-        "originalTitle": "Ali G: Who Iz I?",
-        "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-        "poster": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-        "backdrop": "/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-        "date": "2026-10-22",
-        "year": "2026",
-        "rating": 6,
-        "votes": 100,
-        "popularity": 108.1607,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1727734?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 1141,
-        "popularity": 321.2041,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 112.5911,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 73223,
         "type": "tv",
         "title": "Black Clover",
@@ -573,7 +511,7 @@
         "date": "2017-10-03",
         "year": "2017",
         "rating": 8.5,
-        "votes": 2282,
+        "votes": 2283,
         "popularity": 45.9422,
         "genreIds": [
           16,
@@ -582,6 +520,71 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/73223?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1290418,
+        "type": "movie",
+        "title": "The Cycle",
+        "originalTitle": "The Cycle",
+        "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+        "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+        "backdrop": "/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+        "date": "2026-09-24",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 98,
+        "popularity": 91.6156,
+        "genreIds": [
+          27,
+          53,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1290418?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1423191,
+        "type": "movie",
+        "title": "Resident Evil",
+        "originalTitle": "Resident Evil",
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 1115,
+        "popularity": 113.9383,
+        "genreIds": [
+          27,
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1465063,
+        "type": "movie",
+        "title": "Forgotten Island",
+        "originalTitle": "Forgotten Island",
+        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "backdrop": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 174,
+        "popularity": 122.3666,
+        "genreIds": [
+          16,
+          12,
+          14,
+          35,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1465063?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -997,7 +1000,7 @@
         "date": "2026-06-23",
         "year": "2026",
         "rating": 9.1,
-        "votes": 496,
+        "votes": 497,
         "popularity": 32.5335,
         "genreIds": [
           16,
@@ -1018,7 +1021,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9,
-        "votes": 1408,
+        "votes": 1409,
         "popularity": 54.9561,
         "genreIds": [
           16,
@@ -1053,7 +1056,7 @@
         "id": 1632181,
         "type": "movie",
         "title": "Accidental Partners",
-        "originalTitle": "\u6deb\u7247\u7f51 448832\ud835\udff5.com  \u9ec4\u6f2b\u7247\u7f51 448856\ud835\udff5.com",
+        "originalTitle": "Socias por accidente",
         "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
         "poster": "/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
         "backdrop": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
@@ -1079,7 +1082,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2360,
+        "votes": 2361,
         "popularity": 42.8508,
         "genreIds": [
           16,
@@ -1119,7 +1122,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31735,
+        "votes": 31737,
         "popularity": 55.7874,
         "genreIds": [
           18,
@@ -1138,7 +1141,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23890,
+        "votes": 23891,
         "popularity": 47.9099,
         "genreIds": [
           18,
@@ -1157,7 +1160,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 8635,
+        "votes": 8641,
         "popularity": 82.0371,
         "genreIds": [
           878,
@@ -1168,15 +1171,15 @@
       {
         "id": 1232449,
         "type": "movie",
-        "title": "\u6deb\u7247\u7f51 448832\ud835\udff5.com  \u9ec4\u6f2b\u7247\u7f51 448856\ud835\udff5.com",
-        "originalTitle": "\u6deb\u7247\u7f51 448832\ud835\udff5.com  \u9ec4\u6f2b\u7247\u7f51 448856\ud835\udff5.com",
+        "title": "Young Hearts",
+        "originalTitle": "Young Hearts",
         "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
         "poster": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
         "backdrop": "/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
         "date": "2024-10-26",
         "year": "2024",
         "rating": 8.6,
-        "votes": 333,
+        "votes": 334,
         "popularity": 12.8853,
         "genreIds": [
           18,
@@ -1195,7 +1198,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.6,
-        "votes": 4657,
+        "votes": 4660,
         "popularity": 44.2084,
         "genreIds": [
           10402,
@@ -1214,7 +1217,7 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10546,
+        "votes": 10547,
         "popularity": 27.5593,
         "genreIds": [
           18
@@ -1232,7 +1235,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14545,
+        "votes": 14546,
         "popularity": 30.5974,
         "genreIds": [
           18,
@@ -1264,7 +1267,7 @@
         "id": 1630423,
         "type": "movie",
         "title": "My Dearest Assassin",
-        "originalTitle": "\u6deb\u7247\u7f51 448832\ud835\udff5.com  \u9ec4\u6f2b\u7247\u7f51 448856\ud835\udff5.com",
+        "originalTitle": "\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e06\u0e48\u0e32",
         "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
         "poster": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
         "backdrop": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
@@ -1312,7 +1315,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 37162,
+        "votes": 37167,
         "popularity": 2569.7907,
         "genreIds": [
           28,
@@ -1332,7 +1335,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 19153,
+        "votes": 19155,
         "popularity": 47.2553,
         "genreIds": [
           16,
@@ -1372,7 +1375,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27718,
+        "votes": 27719,
         "popularity": 40.3192,
         "genreIds": [
           12,
@@ -1394,7 +1397,7 @@
         "date": "2026-10-19",
         "year": "2026",
         "rating": 8.7,
-        "votes": 127,
+        "votes": 128,
         "popularity": 1453.32,
         "genreIds": [
           16,
@@ -1410,11 +1413,11 @@
         "originalTitle": "\ud638\ud504",
         "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
         "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "backdrop": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+        "backdrop": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 6.8,
-        "votes": 418,
+        "votes": 422,
         "popularity": 451.9154,
         "genreIds": [
           878,
@@ -1433,8 +1436,8 @@
         "backdrop": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
         "date": "2026-10-27",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 70,
+        "rating": 7.7,
+        "votes": 73,
         "popularity": 298.035,
         "genreIds": [
           10749,
@@ -1453,7 +1456,7 @@
         "date": "2026-09-01",
         "year": "2026",
         "rating": 7.3,
-        "votes": 713,
+        "votes": 715,
         "popularity": 248.569,
         "genreIds": [
           53
@@ -1466,17 +1469,39 @@
         "title": "Apocalypse Z: New World",
         "originalTitle": "Apocalipsis Z: Nuevo mundo",
         "overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-        "poster": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+        "poster": "/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
         "backdrop": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
         "date": "2026-10-09",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 47,
+        "rating": 6,
+        "votes": 50,
         "popularity": 227.9966,
         "genreIds": [
           28,
           53,
           27
+        ],
+        "lang": "es"
+      },
+      {
+        "id": 1657630,
+        "type": "movie",
+        "title": "The Awakening",
+        "originalTitle": "El despertar",
+        "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+        "poster": "/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+        "backdrop": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+        "date": "2026-10-29",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 68,
+        "popularity": 218.9189,
+        "genreIds": [
+          27,
+          28,
+          10752,
+          14,
+          53
         ],
         "lang": "es"
       },
@@ -1491,35 +1516,13 @@
         "date": "2026-09-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 449,
+        "votes": 462,
         "popularity": 218.6788,
         "genreIds": [
           9648,
           53
         ],
         "lang": "en"
-      },
-      {
-        "id": 1657630,
-        "type": "movie",
-        "title": "The Awakening",
-        "originalTitle": "El despertar",
-        "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "poster": "/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
-        "backdrop": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-        "date": "2026-10-29",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 67,
-        "popularity": 218.9189,
-        "genreIds": [
-          27,
-          28,
-          10752,
-          14,
-          53
-        ],
-        "lang": "es"
       },
       {
         "id": 1514026,
@@ -1532,7 +1535,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 7,
-        "votes": 221,
+        "votes": 225,
         "popularity": 200.5457,
         "genreIds": [
           27,
@@ -1551,8 +1554,8 @@
         "backdrop": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
         "date": "2026-10-19",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 316,
+        "rating": 7.4,
+        "votes": 319,
         "popularity": 171.9067,
         "genreIds": [
           27,
@@ -1592,7 +1595,7 @@
         "date": "2026-10-29",
         "year": "2026",
         "rating": 7.7,
-        "votes": 11,
+        "votes": 12,
         "popularity": 150.0099,
         "genreIds": [
           28,
@@ -1611,7 +1614,7 @@
         "date": "2026-10-05",
         "year": "2026",
         "rating": 7.6,
-        "votes": 563,
+        "votes": 565,
         "popularity": 126.0417,
         "genreIds": [
           28,
@@ -1631,7 +1634,7 @@
         "date": "2026-10-30",
         "year": "2026",
         "rating": 6.8,
-        "votes": 16,
+        "votes": 23,
         "popularity": 125.8848,
         "genreIds": [
           18,
@@ -1639,28 +1642,6 @@
           80
         ],
         "lang": "es"
-      },
-      {
-        "id": 1465063,
-        "type": "movie",
-        "title": "Forgotten Island",
-        "originalTitle": "Forgotten Island",
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "backdrop": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 168,
-        "popularity": 122.3666,
-        "genreIds": [
-          16,
-          12,
-          14,
-          35,
-          10751
-        ],
-        "lang": "en"
       },
       {
         "id": 1228834,
@@ -1682,41 +1663,24 @@
         "lang": "en"
       },
       {
-        "id": 1423191,
+        "id": 1465063,
         "type": "movie",
-        "title": "Resident Evil",
-        "originalTitle": "Resident Evil",
-        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "date": "2026-09-16",
+        "title": "Forgotten Island",
+        "originalTitle": "Forgotten Island",
+        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "backdrop": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "date": "2026-09-10",
         "year": "2026",
-        "rating": 7.3,
-        "votes": 1114,
-        "popularity": 113.9383,
+        "rating": 7.8,
+        "votes": 172,
+        "popularity": 122.3666,
         "genreIds": [
-          27,
-          878,
-          12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1561726,
-        "type": "movie",
-        "title": "Masterplan",
-        "originalTitle": "Masterplan",
-        "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
-        "poster": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "backdrop": "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
-        "date": "2026-10-16",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 207,
-        "popularity": 105.6382,
-        "genreIds": [
-          28,
-          53
+          16,
+          12,
+          14,
+          35,
+          10751
         ],
         "lang": "en"
       },
@@ -1731,7 +1695,7 @@
         "date": "1993-10-09",
         "year": "1993",
         "rating": 7.9,
-        "votes": 10859,
+        "votes": 10861,
         "popularity": 121.2895,
         "genreIds": [
           14,
@@ -1750,8 +1714,8 @@
         "backdrop": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
         "date": "2026-09-24",
         "year": "2026",
-        "rating": 6.2,
-        "votes": 46,
+        "rating": 6.1,
+        "votes": 47,
         "popularity": 119.0606,
         "genreIds": [
           27,
@@ -1769,14 +1733,52 @@
         "backdrop": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
         "date": "2026-10-23",
         "year": "2026",
-        "rating": 5.2,
-        "votes": 13,
+        "rating": 5.3,
+        "votes": 14,
         "popularity": 115.9511,
         "genreIds": [
           53,
           80
         ],
         "lang": "hi"
+      },
+      {
+        "id": 1423191,
+        "type": "movie",
+        "title": "Resident Evil",
+        "originalTitle": "Resident Evil",
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 1115,
+        "popularity": 113.9383,
+        "genreIds": [
+          27,
+          878,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1780005,
+        "type": "movie",
+        "title": "Surviving Hurricane Otis",
+        "originalTitle": "Contra el hurac\u00e1n",
+        "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+        "poster": "/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+        "backdrop": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+        "date": "2026-10-23",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 100,
+        "popularity": 113.9054,
+        "genreIds": [
+          18
+        ],
+        "lang": "es"
       }
     ],
     "upcoming": [
@@ -1956,24 +1958,6 @@
         "lang": "en"
       },
       {
-        "id": 1765072,
-        "type": "movie",
-        "title": "You Can See Everything",
-        "originalTitle": "You Can See Everything",
-        "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-        "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-        "backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-        "date": "2026-10-16",
-        "year": "2026",
-        "rating": 8.9,
-        "votes": 73,
-        "popularity": 89.7357,
-        "genreIds": [
-          99
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1377237,
         "type": "movie",
         "title": "Runner",
@@ -2027,6 +2011,24 @@
         "popularity": 86.746,
         "genreIds": [
           27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1765072,
+        "type": "movie",
+        "title": "You Can See Everything",
+        "originalTitle": "You Can See Everything",
+        "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+        "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+        "backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "date": "2026-10-16",
+        "year": "2026",
+        "rating": 8.9,
+        "votes": 73,
+        "popularity": 89.7357,
+        "genreIds": [
+          99
         ],
         "lang": "en"
       },
@@ -2257,7 +2259,7 @@
         "date": "2005-09-13",
         "year": "2005",
         "rating": 8.3,
-        "votes": 8799,
+        "votes": 8802,
         "popularity": 5833.6951,
         "genreIds": [
           18,
@@ -2277,7 +2279,7 @@
         "date": "2005-03-24",
         "year": "2005",
         "rating": 8.6,
-        "votes": 5655,
+        "votes": 5656,
         "popularity": 4468.7556,
         "genreIds": [
           35
@@ -2295,7 +2297,7 @@
         "date": "2005-09-19",
         "year": "2005",
         "rating": 8.1,
-        "votes": 6040,
+        "votes": 6041,
         "popularity": 4169.3615,
         "genreIds": [
           35
@@ -2313,29 +2315,11 @@
         "date": "2009-09-10",
         "year": "2009",
         "rating": 8.3,
-        "votes": 9822,
+        "votes": 9823,
         "popularity": 4144.2871,
         "genreIds": [
           18,
           10765
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1408,
-        "type": "tv",
-        "title": "House",
-        "originalTitle": "House",
-        "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton\u2013Plainsboro Teaching Hospital in New Jersey.",
-        "poster": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-        "backdrop": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-        "date": "2004-11-16",
-        "year": "2004",
-        "rating": 8.6,
-        "votes": 7993,
-        "popularity": 3874.9325,
-        "genreIds": [
-          18
         ],
         "lang": "en"
       },
@@ -2350,7 +2334,7 @@
         "date": "2014-10-07",
         "year": "2014",
         "rating": 7.7,
-        "votes": 11836,
+        "votes": 11838,
         "popularity": 4070.1039,
         "genreIds": [
           18,
@@ -2369,30 +2353,12 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4924,
+        "votes": 4925,
         "popularity": 4063.8466,
         "genreIds": [
           80,
           18,
           9648
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1421,
-        "type": "tv",
-        "title": "Modern Family",
-        "originalTitle": "Modern Family",
-        "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
-        "poster": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-        "backdrop": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-        "date": "2009-09-23",
-        "year": "2009",
-        "rating": 7.9,
-        "votes": 3591,
-        "popularity": 3898.0987,
-        "genreIds": [
-          35
         ],
         "lang": "en"
       },
@@ -2407,7 +2373,7 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11114,
+        "votes": 11115,
         "popularity": 3998.9839,
         "genreIds": [
           18
@@ -2415,20 +2381,38 @@
         "lang": "en"
       },
       {
-        "id": 1400,
+        "id": 1421,
         "type": "tv",
-        "title": "Seinfeld",
-        "originalTitle": "Seinfeld",
-        "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-        "poster": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-        "backdrop": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-        "date": "1989-07-05",
-        "year": "1989",
-        "rating": 8.3,
-        "votes": 2498,
-        "popularity": 3616.4345,
+        "title": "Modern Family",
+        "originalTitle": "Modern Family",
+        "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+        "poster": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+        "backdrop": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+        "date": "2009-09-23",
+        "year": "2009",
+        "rating": 7.9,
+        "votes": 3593,
+        "popularity": 3898.0987,
         "genreIds": [
           35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1408,
+        "type": "tv",
+        "title": "House",
+        "originalTitle": "House",
+        "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton\u2013Plainsboro Teaching Hospital in New Jersey.",
+        "poster": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "backdrop": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "date": "2004-11-16",
+        "year": "2004",
+        "rating": 8.6,
+        "votes": 7994,
+        "popularity": 3874.9325,
+        "genreIds": [
+          18
         ],
         "lang": "en"
       },
@@ -2453,64 +2437,38 @@
         "lang": "en"
       },
       {
-        "id": 48866,
+        "id": 1400,
         "type": "tv",
-        "title": "The 100",
-        "originalTitle": "The 100",
-        "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet \u2014 but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-        "poster": "/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-        "backdrop": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-        "date": "2014-03-19",
-        "year": "2014",
-        "rating": 7.9,
-        "votes": 8851,
-        "popularity": 3352.0217,
+        "title": "Seinfeld",
+        "originalTitle": "Seinfeld",
+        "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+        "poster": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "backdrop": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "date": "1989-07-05",
+        "year": "1989",
+        "rating": 8.3,
+        "votes": 2498,
+        "popularity": 3616.4345,
         "genreIds": [
-          10765,
-          10759,
-          18,
-          80
+          35
         ],
         "lang": "en"
       },
       {
-        "id": 1695,
+        "id": 1668,
         "type": "tv",
-        "title": "Monk",
-        "originalTitle": "Monk",
-        "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
-        "poster": "/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-        "backdrop": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-        "date": "2002-07-12",
-        "year": "2002",
-        "rating": 7.9,
-        "votes": 1340,
-        "popularity": 3318.2076,
+        "title": "Friends",
+        "originalTitle": "Friends",
+        "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+        "poster": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "backdrop": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "date": "1994-09-22",
+        "year": "1994",
+        "rating": 8.4,
+        "votes": 9539,
+        "popularity": 3552.2047,
         "genreIds": [
-          18,
-          35,
-          80,
-          9648
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 873,
-        "type": "tv",
-        "title": "Columbo",
-        "originalTitle": "Columbo",
-        "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
-        "poster": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
-        "backdrop": "/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
-        "date": "1971-09-15",
-        "year": "1971",
-        "rating": 8.1,
-        "votes": 881,
-        "popularity": 3291.6343,
-        "genreIds": [
-          80,
-          18,
-          9648
+          35
         ],
         "lang": "en"
       },
@@ -2525,7 +2483,7 @@
         "date": "2012-04-14",
         "year": "2012",
         "rating": 8.2,
-        "votes": 2475,
+        "votes": 2476,
         "popularity": 3513.5199,
         "genreIds": [
           16,
@@ -2545,11 +2503,50 @@
         "date": "2014-01-12",
         "year": "2014",
         "rating": 8.3,
-        "votes": 4459,
+        "votes": 4461,
         "popularity": 3388.9503,
         "genreIds": [
           18,
           9648
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 194766,
+        "type": "tv",
+        "title": "The Summer I Turned Pretty",
+        "originalTitle": "The Summer I Turned Pretty",
+        "overview": "Every summer, Belly and her family head to the Fishers\u2019 beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It\u2019s a summer of first love, first heartbreak and growing up \u2014 it's the summer she turns pretty.",
+        "poster": "/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+        "backdrop": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
+        "date": "2022-06-16",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 1156,
+        "popularity": 3371.0063,
+        "genreIds": [
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 48866,
+        "type": "tv",
+        "title": "The 100",
+        "originalTitle": "The 100",
+        "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet \u2014 but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+        "poster": "/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+        "backdrop": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+        "date": "2014-03-19",
+        "year": "2014",
+        "rating": 7.9,
+        "votes": 8851,
+        "popularity": 3352.0217,
+        "genreIds": [
+          10765,
+          10759,
+          18,
+          80
         ],
         "lang": "en"
       }
@@ -2566,7 +2563,7 @@
         "date": "2026-10-11",
         "year": "2026",
         "rating": 9.7,
-        "votes": 366,
+        "votes": 369,
         "popularity": 127.7961,
         "genreIds": [
           16,
@@ -2586,7 +2583,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 1005,
+        "votes": 1006,
         "popularity": 43.393,
         "genreIds": [
           10759,
@@ -2665,7 +2662,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 19012,
+        "votes": 19013,
         "popularity": 172.2222,
         "genreIds": [
           18,
@@ -2702,7 +2699,7 @@
         "date": "2023-04-26",
         "year": "2023",
         "rating": 8.9,
-        "votes": 203,
+        "votes": 204,
         "popularity": 9.2131,
         "genreIds": [
           18,
@@ -2760,7 +2757,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 1010,
+        "votes": 1012,
         "popularity": 74.6078,
         "genreIds": [
           16,
@@ -2838,7 +2835,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5205,
+        "votes": 5206,
         "popularity": 42.9333,
         "genreIds": [
           16,
@@ -2868,26 +2865,6 @@
         "lang": "ja"
       },
       {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "\u30ef\u30f3\u30d4\u30fc\u30b9",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.8,
-        "votes": 5626,
-        "popularity": 62.0745,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 259837,
         "type": "tv",
         "title": "The WONDERfools",
@@ -2898,7 +2875,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 8.8,
-        "votes": 284,
+        "votes": 285,
         "popularity": 17.8838,
         "genreIds": [
           10759,
@@ -2907,6 +2884,26 @@
           18
         ],
         "lang": "ko"
+      },
+      {
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "\u30ef\u30f3\u30d4\u30fc\u30b9",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.8,
+        "votes": 5628,
+        "popularity": 62.0745,
+        "genreIds": [
+          10759,
+          35,
+          16
+        ],
+        "lang": "ja"
       },
       {
         "id": 94605,
@@ -2919,7 +2916,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6286,
+        "votes": 6289,
         "popularity": 55.0325,
         "genreIds": [
           16,
@@ -2998,7 +2995,7 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11114,
+        "votes": 11115,
         "popularity": 3998.9839,
         "genreIds": [
           18
@@ -3050,7 +3047,7 @@
         "originalTitle": "Raw",
         "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
         "poster": "/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-        "backdrop": "/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+        "backdrop": "/7QmGgxQSnZZQ3NeiDm7n1A0avmz.jpg",
         "date": "1993-01-11",
         "year": "1993",
         "rating": 6.8,
@@ -3129,7 +3126,7 @@
         "date": "2025-03-30",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1138,
+        "votes": 1142,
         "popularity": 321.2041,
         "genreIds": [
           80,
@@ -3148,7 +3145,7 @@
         "date": "2026-10-13",
         "year": "2026",
         "rating": 8.7,
-        "votes": 233,
+        "votes": 234,
         "popularity": 272.2097,
         "genreIds": [
           10765,
@@ -3174,45 +3171,6 @@
           35
         ],
         "lang": "en"
-      },
-      {
-        "id": 549,
-        "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-        "backdrop": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 737,
-        "popularity": 248.2508,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 72879,
-        "type": "tv",
-        "title": "Tomorrow Is Ours",
-        "originalTitle": "Demain nous appartient",
-        "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-        "poster": "/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-        "backdrop": "/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-        "date": "2017-07-17",
-        "year": "2017",
-        "rating": 6.3,
-        "votes": 74,
-        "popularity": 259.5569,
-        "genreIds": [
-          80,
-          18,
-          10766
-        ],
-        "lang": "fr"
       },
       {
         "id": 61818,
@@ -3244,7 +3202,7 @@
         "date": "2022-11-13",
         "year": "2022",
         "rating": 8.3,
-        "votes": 2904,
+        "votes": 2907,
         "popularity": 261.0194,
         "genreIds": [
           80,
@@ -3252,6 +3210,26 @@
           35
         ],
         "lang": "en"
+      },
+      {
+        "id": 72879,
+        "type": "tv",
+        "title": "Tomorrow Is Ours",
+        "originalTitle": "Demain nous appartient",
+        "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "poster": "/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+        "backdrop": "/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+        "date": "2017-07-17",
+        "year": "2017",
+        "rating": 6.3,
+        "votes": 74,
+        "popularity": 259.5569,
+        "genreIds": [
+          80,
+          18,
+          10766
+        ],
+        "lang": "fr"
       },
       {
         "id": 206559,
@@ -3272,20 +3250,21 @@
         "lang": "af"
       },
       {
-        "id": 291,
+        "id": 549,
         "type": "tv",
-        "title": "Coronation Street",
-        "originalTitle": "Coronation Street",
-        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-        "poster": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-        "backdrop": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-        "date": "1960-12-09",
-        "year": "1960",
-        "rating": 5.3,
-        "votes": 120,
-        "popularity": 198.4804,
+        "title": "Law & Order",
+        "originalTitle": "Law & Order",
+        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+        "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+        "backdrop": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+        "date": "1990-09-13",
+        "year": "1990",
+        "rating": 7.3,
+        "votes": 737,
+        "popularity": 248.2508,
         "genreIds": [
-          10766
+          80,
+          18
         ],
         "lang": "en"
       },
@@ -3308,6 +3287,24 @@
           18
         ],
         "lang": "ja"
+      },
+      {
+        "id": 291,
+        "type": "tv",
+        "title": "Coronation Street",
+        "originalTitle": "Coronation Street",
+        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+        "poster": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+        "backdrop": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+        "date": "1960-12-09",
+        "year": "1960",
+        "rating": 5.3,
+        "votes": 120,
+        "popularity": 198.4804,
+        "genreIds": [
+          10766
+        ],
+        "lang": "en"
       },
       {
         "id": 112470,
@@ -3341,7 +3338,7 @@
         "date": "2016-07-12",
         "year": "2016",
         "rating": 8.5,
-        "votes": 1399,
+        "votes": 1401,
         "popularity": 2538.6661,
         "genreIds": [
           16,
@@ -3394,26 +3391,6 @@
         "lang": "ja"
       },
       {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2328,
-        "popularity": 163.5789,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 57775,
         "type": "tv",
         "title": "Chibi Maruko-chan",
@@ -3429,6 +3406,26 @@
         "genreIds": [
           16,
           35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2329,
+        "popularity": 163.5789,
+        "genreIds": [
+          10759,
+          16,
+          10765
         ],
         "lang": "ja"
       },
@@ -3475,6 +3472,26 @@
         "lang": "ja"
       },
       {
+        "id": 312359,
+        "type": "tv",
+        "title": "Dragon Ball Super: Beerus",
+        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85 \u30d3\u30eb\u30b9",
+        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+        "poster": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+        "backdrop": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "date": "2026-10-11",
+        "year": "2026",
+        "rating": 9.7,
+        "votes": 369,
+        "popularity": 127.7961,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 60572,
         "type": "tv",
         "title": "Pok\u00e9mon",
@@ -3487,46 +3504,6 @@
         "rating": 8,
         "votes": 2295,
         "popularity": 125.9955,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 312359,
-        "type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85 \u30d3\u30eb\u30b9",
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "poster": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "date": "2026-10-11",
-        "year": "2026",
-        "rating": 9.7,
-        "votes": 366,
-        "popularity": 127.7961,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 45790,
-        "type": "tv",
-        "title": "JoJo's Bizarre Adventure",
-        "originalTitle": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a",
-        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-        "poster": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "backdrop": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
-        "date": "2012-10-06",
-        "year": "2012",
-        "rating": 8.6,
-        "votes": 1698,
-        "popularity": 107.1303,
         "genreIds": [
           16,
           10759,
@@ -3567,12 +3544,52 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4727,
+        "votes": 4729,
         "popularity": 111.4119,
         "genreIds": [
           16,
           10765,
           10759
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 45790,
+        "type": "tv",
+        "title": "JoJo's Bizarre Adventure",
+        "originalTitle": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a",
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "poster": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "backdrop": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+        "date": "2012-10-06",
+        "year": "2012",
+        "rating": 8.6,
+        "votes": 1697,
+        "popularity": 107.1303,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 220542,
+        "type": "tv",
+        "title": "The Apothecary Diaries",
+        "originalTitle": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "poster": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+        "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "date": "2023-10-22",
+        "year": "2023",
+        "rating": 8.7,
+        "votes": 695,
+        "popularity": 106.847,
+        "genreIds": [
+          16,
+          9648,
+          18
         ],
         "lang": "ja"
       },
@@ -3593,66 +3610,6 @@
           16,
           35,
           10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 220542,
-        "type": "tv",
-        "title": "The Apothecary Diaries",
-        "originalTitle": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
-        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-        "poster": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-        "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-        "date": "2023-10-22",
-        "year": "2023",
-        "rating": 8.7,
-        "votes": 693,
-        "popularity": 106.847,
-        "genreIds": [
-          16,
-          9648,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 46260,
-        "type": "tv",
-        "title": "Naruto",
-        "originalTitle": "\u30ca\u30eb\u30c8",
-        "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-        "poster": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
-        "backdrop": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-        "date": "2002-10-03",
-        "year": "2002",
-        "rating": 8.4,
-        "votes": 6177,
-        "popularity": 93.0902,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 94664,
-        "type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "originalTitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
-        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "date": "2021-01-11",
-        "year": "2021",
-        "rating": 8.4,
-        "votes": 1802,
-        "popularity": 89.187,
-        "genreIds": [
-          10759,
-          16,
-          10765
         ],
         "lang": "ja"
       },
@@ -3680,6 +3637,46 @@
         "lang": "ja"
       },
       {
+        "id": 46260,
+        "type": "tv",
+        "title": "Naruto",
+        "originalTitle": "\u30ca\u30eb\u30c8",
+        "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+        "poster": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+        "backdrop": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+        "date": "2002-10-03",
+        "year": "2002",
+        "rating": 8.4,
+        "votes": 6179,
+        "popularity": 93.0902,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 94664,
+        "type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1803,
+        "popularity": 89.187,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 30623,
         "type": "tv",
         "title": "Crayon Shin-chan",
@@ -3695,6 +3692,26 @@
         "genreIds": [
           16,
           35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 12971,
+        "type": "tv",
+        "title": "Dragon Ball Z",
+        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8",
+        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+        "date": "1989-04-26",
+        "year": "1989",
+        "rating": 8.4,
+        "votes": 5061,
+        "popularity": 82.8869,
+        "genreIds": [
+          16,
+          10765,
+          10759
         ],
         "lang": "ja"
       },
@@ -3716,26 +3733,6 @@
           9648,
           10759,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 12971,
-        "type": "tv",
-        "title": "Dragon Ball Z",
-        "originalTitle": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8",
-        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
-        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
-        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
-        "date": "1989-04-26",
-        "year": "1989",
-        "rating": 8.4,
-        "votes": 5061,
-        "popularity": 82.8869,
-        "genreIds": [
-          16,
-          10765,
-          10759
         ],
         "lang": "ja"
       }
